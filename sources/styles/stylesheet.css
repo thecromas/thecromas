@@ -4,7 +4,7 @@ html, body {
 #header {
   height: 50px;
   width: 100%;
-  background-color: aqua;
+  background-color: darkgray;
   position: fixed;
 }
 .left {
@@ -16,11 +16,11 @@ html, body {
   top: 50px;
 }
 .right {
-  height: 90px;
-  width: 90px;
+  height: 100%;
+  width: 480px;
   border: 10px dashed lightblue;
   border-radius: 5px;
-  background-color: lightyellow;
+  background-color: lightgray;
   right: 0;
   position: fixed;
   top: 50px;
