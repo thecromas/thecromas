@@ -1,0 +1,86 @@
+===== Campo Grande
+=======================================================================================
+=http://gerencia.cpe.virtua.com.br/
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+= DHCP
+= CPEDTCLDM011 -
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.72.61-day.png
+=CPEDTCLDM013 -
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.72.63-day.png
+=CPEDTCLDM022 -
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.72.72-day.png
+
+=-----------------------------------------------------------------------------------------------------------------------------------------
+=LINKS
+=CONSOLIDADO - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/CPE_EBT_consolidado-day.png
+= IP-01159 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.11_258-day.png
+= IP-01293 -
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.12_82-day.png
+= IP-01388 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.3_234-day.png
+= IP-01389 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.3_235-day.png
+= IP-01545 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.3_236-day.png
+= IP-01667 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.3_237-day.png
+= IP-01698 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.11_259-day.png
+= IP-01785 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.11_298-day.png
+= IP-01786 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.11_299-day.png
+= IP-01883 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.12_86-day.png
+= IP-01979 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.3_108-day.png
+= IP-02175 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.3_124-day.png
+
+=---------------------------------------------------------------------------------------------------------------------------------------------------------
+=CABLES
+
+= CPEDTCCMT02 - 
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/modem_189.7.72.52-day.png
+= CPEDTCCMT03 - 
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/modem_189.7.72.53-day.png
+= CPEDTCCMT04 - 
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/modem_189.7.72.4-day.png
+= CPEDTCCMT06 - 
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/modem_189.7.72.9-day.png
+= CPEDTCCMT07 - 
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/modem_189.7.72.27-day.png
+= CPEDTCCMT08 - 
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/modem_189.7.72.28-day.png
+= CPEDTCCMT09 - 
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/modem_189.7.72.29-day.png
+= CPEDTCCMT10 - 
+http://gerencia.cpe.virtua.com.br/nagios/noc/graficos/png/modem_189.7.72.50-day.png
+
+
+
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=NETFONE
+=00715 -
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.11_257-day.png
+
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=SERVIÇOS
+
+=CPE IPV6 - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/CPE_IPV6_consolidado-day.png
+=GOOGLE - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/CPE_GOOGLE_consolidado-day.png
+=FACEBOOK - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/CPE_FACEBOOK_consolidado-day.png
+=NETFLIX - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/CPE_NETFLIX_consolidado-day.png
+=AKAMAI - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/CPE_AKAMAI_consolidado-day.png
+=IP-01346-BSOD - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.3_233-day.png
+=INSERCAO-COMERCIAL - 
+http://gerencia.cpe.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.72.12_35-day.png
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------

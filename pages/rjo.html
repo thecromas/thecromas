@@ -1,0 +1,2697 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Cluster Rio de Janeiro - Rio de Janeiro </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv=pragma content="no-cache">
+        <meta http-equiv=cache-control content="no-cache; no-store; must-revalidate">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">  
+        <link rel="stylesheet" href="/bootstrap-4.3.1/dist/css/bootstrap.min.css">
+        <link id="themeStylesheet" rel="stylesheet" href="/pages/css/default.css">
+        <meta http-equiv="refresh" content="500">
+        <script src="/Js/jquery-3.4.1.min.js"></script>
+        <script src="/Js/popper.min.js"></script>
+        <script src="/bootstrap-4.3.1/dist/js/bootstrap.js"></script>
+        <script src="/Files/scipts/themes.js"></script>
+        <script src="/Files/scipts/alert.js"></script>
+        <script src="/Files/scipts/onload.js"></script>
+        <title></title>
+      </head>
+      <body>
+           <div class="alert alert-primary alert-dismissible fade show" role="alert" id="Alerta">
+            <div class="AlertText"><strong>Atenção! Para que as imagens carreguem normalmente utilize login e senha do nagios da respectiva cidade.</strong></div>
+              <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="color:white">
+                <span aria-hidden="true">&times;</span>
+              </button>
+          </div>
+  
+      <div class="jumbotron" style="opacity: 0.9; height:100px ;">
+        <a style="color:white; top:-60px; position:relative; margin:0 auto; left:0; width:20px;" href="/index.html"> <img src="/Images/assets/arrows.png" height="20px;" width="20px;"> </a>  
+        <h2 style="color:white; position:relative; bottom:24px;">Monitoramento - <small> Rio de Janeiro </small></h2>
+          
+          <!-- Navigation Bar -->
+           <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist" style="left:880px; top:-48px; width:40%; position:relative;">
+              <li class="nav-item">
+                <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#nav-home" role="tab" aria-controls="pills-home" aria-selected="true" style="color:white">Mosáicos</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="pills-subs-tab" data-toggle="pill" href="#nav-subs" role="tab" aria-controls="pills-subs" aria-selected="false" style="color:white" >Hubs</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="pills-serv-tab" data-toggle="pill" href="#nav-serv" role="tab" aria-controls="pills-serv" aria-selected="false" style="color:white" >Serviços</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#nav-profile" role="tab" aria-controls="pills-profile" aria-selected="false" style="color:white" >Painel</a>
+              </li>              
+            </ul>
+  
+            <!-- ContactButtom -->
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ContatosDTC" style="background-color: white; top:-100px; left: 1230px; position:relative;border-radius:50%; justify-content: center; align-content: center; display: flex; width:35px; height:30px">
+              <a data-toggle="tooltip" data-placement="right" title="Contatos da Cidade" style="border-radius:50%; justify-content: center; align-content: center; display: flex;"><img src="/Images/assets/Caller.png" width="15px" height="15px"></a>
+            </button>
+  
+            <!-- InfoButtom -->
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal" style="background-color:white;top:-130px; left:1270px; position:relative; border-radius:50%; justify-content: center; align-content: center; display: flex;width:35px; height:30px">
+             <a data-toggle="tooltip" data-placement="right" title="Informações" style="border-radius:50%; justify-content: center; align-content: center; display: flex;"><img src="/Images/assets/information.png" width="15px" height="15px"></a>
+            </button>
+  
+  
+            </div>
+      
+  
+      <div class="tab-content" id="nav-tabContent">
+        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+          <br>
+          <br>
+          <br>
+          <div class='container-fluid' style="padding-bottom:50px;">
+            <!-- Div's DHCP -->
+            <div class="panel-group">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title" style="width:80px; cursor:pointer;" data-toggle="collapsex" href="#DHCP">
+                      <a data-toggle="collapse" href="#DHCP" style="color:white;" >DHCP</a> 
+                    </h4>
+                  </div>
+                    <div id="DHCP" class="panel-collapse collapse">
+                    <div class="panel-body">
+                      <div id= "some_div">
+                      <!-- Tabela de Imagens - DHCP PRIMARIO-->
+                      <table>
+                        <tbody>
+                            <tr>
+                        
+                                <td valign="MIDDLE" align="CENTER">
+                                                <div class="BodyText">201.17.1.141 - BOTAFOGO</div>
+                                                   
+                                        <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.141-day.png">
+                                </td>
+                                 <td valign="MIDDLE" align="CENTER">
+                                                <div class=BodyText>201.17.1.174 - CAMPO GRANDE</div>
+                                        <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.174-day.png">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                                <div class="BodyText">201.17.1.147 - FREGUESIA</div>
+                                                   
+                                        <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.147-day.png">
+                                </td>
+                                 <td valign="MIDDLE" align="CENTER">
+                                                <div class=BodyText>201.17.1.143 - MENA BARRETO </div>
+                                        <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.143-day.png">
+                                </td>
+
+                            </tr>
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                              <div class="BodyText">201.17.1.162 - PARANÁ</div>
+                                                 
+                                      <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.162-day.png">
+                              </td>
+                               <td valign="MIDDLE" align="CENTER">
+                                              <div class=BodyText>201.17.1.183 - PIAUÍ</div>
+                                      <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.183-day.png">
+                              </td>
+
+                            </tr>
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                              <div class="BodyText">201.17.1.181 - RAMOS</div>
+                                                 
+                                      <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.181-day.png">
+                              </td>
+                               <td valign="MIDDLE" align="CENTER">
+                                              <div class=BodyText>201.17.1.131 - RECREIO</div>
+                                      <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.131-day.png">
+                              </td>
+
+                            </tr>
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                              <div class="BodyText">201.17.1.164 - SULACAP</div>
+                                                 
+                                      <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.164-day.png">
+                              </td>
+                               <td valign="MIDDLE" align="CENTER">
+                                              <div class=BodyText>201.17.1.133 - TIJUCA</div>
+                                      <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.133-day.png">
+                              </td>
+
+                            </tr>
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                              <div class="BodyText">201.17.1.149 - TIJUCA</div>
+                                                 
+                                      <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.149-day.png">
+                              </td>                              
+
+                            </tr>
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                  <div class="BodyText">201.17.1.144 - TIJUCA Secundario [temp]</div>
+                                  <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.144-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class="BodyText">201.17.1.142 - FREGUESIA SECUNDARIO TEMP</div>
+                                <img width="610" height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/dhcp_201.17.1.142-day.png">
+                              </td>                                
+
+                            </tr>
+                                  
+                        </tbody>
+                      </table>
+                    </div>
+                      <br>
+                      <br>
+                      <a data-toggle="collapse" href="#DHCP" class="HDNBTT">Fechar</a>
+                   </div>
+                  </div>
+                </div>
+              </div> 
+        
+              <br>
+              <br>
+        
+            <!-- Div's Links-->
+            
+            <div class="panel-group">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title" style="width:80px; cursor:pointer;" data-toggle="collapse" href="#Link"MeLiga()>
+                      <a data-toggle="collapse" href="#Link" style="color:white;" >Links</a>
+                    </h4>
+                  </div>
+                  <div id="Link" class="panel-collapse collapse">
+                    <div class="panel-body">
+                      <table>
+                        <tbody>
+                            <tr>                        
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>15035</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_237-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>15036</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_344-day.png">
+                                </td>
+                            </tr>
+                            <tr>                        
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>20080</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_358-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>20453</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.27_231-day.png">
+                                </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>22303</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_370-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>22689</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_558-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>22690</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_157-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>23925</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_296-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>23926</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_297-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25301</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_350-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25302</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_238-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25303</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_355-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25304</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_156-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25305</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_240-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25665</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.70_135-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25666</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.70_136-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25667</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.70_137-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25668</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.70_234-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25669</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.70_235-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25834</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.70_183-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25838</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.70_233-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>25988</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.70_236-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>28128</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.27_154-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>28132</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.27_155-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>28133</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_228-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>28324</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_229-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>28325</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_241-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>28326</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_285-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>29909</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_240-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>29910</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.27_229-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>29911</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_366-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>29912</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_239-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>30314</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.27_224-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>30315</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_369-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>30316</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.27_226-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>30317</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.27_227-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>80134</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_603-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>80142</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_605-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>80157</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_604-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>80158</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_606-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>80159</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.26_8-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>80160</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.26_9-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>80161</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.26_10-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>80165</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.26_11-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>85980</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_667-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>85981</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_668-day.png">
+                              </td>
+                            </tr>
+                            <tr>                        
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>85987</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_669-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>85988</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_670-day.png">
+                              </td>
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> CONSOLIDADO</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_EBT_consolidado-day.png">
+                                </td>
+                            </tr>
+                              
+                         </tbody> 
+                      </table>
+                      <br>
+                      <br>
+                      <br>
+                      <a data-toggle="collapse" class="HDNBTT" href="#Link">Fechar</a>
+                    </div>
+                  </div>
+                </div>
+              </div> 
+        
+              <br>
+              <br>              
+            
+
+            </div>
+          
+      
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+  
+        
+  
+        </div>
+  
+  
+  
+        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+  
+          <div class='container-fluid' style="padding-bottom:50px;">
+            <iframe src="http://201.17.1.249/nagios/noc/painel/index.php" width="1250" height="560" frameborder="0"marginwidth="0"></iframe>
+            </div>
+  
+  
+  
+  
+        </div>
+        
+  
+          <div class="tab-pane fade" id="nav-serv" role="tabpanel" aria-labelledby="nav-serv-tab">
+            <br>
+            <br>
+            <br>
+            <div class='container-fluid' style="padding-bottom:50px;"> 
+              
+              <!-- Div's Now -->
+              <div class="panel-group">
+                
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:80px; cursor:pointer;" data-toggle="collapsex" href="#DHCP">
+                        <a data-toggle="collapse" href="#NNow" style="color:white;">Now</a> 
+                      </h4>
+                    </div>
+                      <div id="NNow" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+                        <!-- Tabela de Imagens - NOW-->
+                        <br>
+                        <h5 class="HDNBTT">Now All-IP</h5>
+                        <br>
+                         <table>
+                          <tbody>
+                                                       
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>32565</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_354-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>77971</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_557-day.png">
+                              </td>
+                                    
+                            </tr> 
+                            
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>77974</div>  
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_365-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> CONSOLIDADO</div>  
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_ALLIP_consolidado-day.png">
+                              </td>
+                            </tr>
+                         </tbody>
+                        </table>
+
+                        <br>
+                        <br>
+                        <h5 class="HDNBTT">Now Interligadas</h5>
+                        <br>
+                         <table>
+                          <tbody>
+                                                       
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJO-MCE-NOW-IP-01</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.26_356-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJO-MESQ-NOW-IP-01</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_374-day.png">
+                              </td>                                    
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJO-MESQ-NOW-IP-02</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_561-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJO-TRL-NOW-IP-01</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.70_265-day.png">
+                                </td>                                    
+                            </tr> 
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJO-TRL-NOW-IP-02</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.26_358-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJO-CPDG-NOW-IP-01</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_520-day.png">
+                                </td>                                    
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJO-RSD-NOW-IP-01</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.11_522-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJO-PTS-NOW-IP-01</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_339-day.png">
+                                </td>                                    
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJO-PTS-NOW-IP-02</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_338-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJO-VRD-NOW-IP-01</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_341-day.png">
+                                </td>                                    
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJO-VRD-NOW-IP-02</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_340-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>CONSOLIDADO</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_INTERLIGADAS_consolidado-day.png">
+                                </td>                                    
+                            </tr>
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                        <h5 class="HDNBTT">Streams</h5>
+                        <br>
+                         <table>
+                          <tbody>
+                                                       
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>Botafogo</div>
+                                <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_bot-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>Campo Grande</div>
+                                <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_cpg-day.png">
+                              </td>
+                                    
+                            </tr> 
+                            
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>Freguesia</div>  
+                                <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_frg-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>Mena Barreto</div>  
+                                <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_mnb-day.png">
+                              </td>
+                            </tr>
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>Paraná</div>  
+                                <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_prn-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>Piauí</div>  
+                                <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_pia-day.png">
+                              </td>
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>Ramos</div>  
+                                  <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_rms-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> Recreio</div>  
+                                  <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_rec-day.png">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>Sulacap</div>  
+                                  <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_slc-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>Tijuca</div>  
+                                  <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary_tij-day.png">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>Consolidado</div>  
+                                  <img width="610" height="240" border="0" src="http://now.rjo.virtua.com.br/nagios_vod/noc/graficos/png/stream_summary-day.png">
+                                </td>
+                            </tr>
+
+                         </tbody>
+                        </table>
+                        
+                        <br>
+                        <br>
+
+                      </div>
+                        <br>
+                        <br>
+                        <a data-toggle="collapse" href="#NNow" class="HDNBTT">Fechar</a>
+                     </div>
+                    </div>
+                  </div>
+                </div> 
+          
+                <br>
+                <br>
+          
+              <!-- Div's Netfone -->
+              
+              <div class="panel-group">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:110px; cursor:pointer;" data-toggle="collapse" href="#Nfone">
+                        <a data-toggle="collapse" href="#Nfone" style="color:white;">Netfone</a>
+                      </h4>
+                    </div>
+                    <div id="Nfone" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        
+                        <!-- Tabela de Imagens Netfone -->
+                        <table>
+                          <tbody>
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>06724</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_208-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>14754</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.27_68-day.png">
+                              </td>   
+                            </tr>                            
+                          </tbody> 
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                        <a data-toggle="collapse" href="#Nfone" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div> 
+          
+                <br>
+                <br>
+                
+              <!--Div's Digital-->
+            <div class="panel-group">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4 class="panel-title" style="width:110px; cursor:pointer;" data-toggle="collapse" href="#Digital">
+                    <a data-toggle="collapse" href="#Digital" style="color:white;">Digital</a>
+                  </h4>
+                </div>
+                <div id="Digital" class="panel-collapse collapse">
+                  <div class="panel-body">
+                    <!-- Tabela de Imagens DIGITAL -->
+                    <table>
+                      <tbody>
+                            <tr>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>4K FREGUESIA - MACAÉ</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_TVDIG-4K_RJO-MCE_consolidado-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>4K FREGUESIA - CPDG</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_TVDIG-4K_RJO-CPDG_consolidado-day.png">
+                              </td>   
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>FREGUESIA - JFA</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_TVDIG_FRG-JFA_consolidado-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>FREGUESIA - MACAÉ</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_TVDIG_FREG-MCE_consolidado-day.png">
+                                </td>   
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>FREGUESIA - RESENDE</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_TVDIG_FRG-RSD_consolidado-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>FREGUESIA - MESQUITA</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_254-day.png">
+                                </td>   
+                            </tr>
+                            <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>FREGUESIA - NITEROI</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_51-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>FREGUESIA - CPDG</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_54-day.png">
+                                </td>   
+                            </tr>
+                          </tbody> 
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                        <a data-toggle="collapse" href="#Digital" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div> 
+          
+                <br>
+                <br>
+
+                <!-- Div's Services -->
+              
+              <div class="panel-group">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:110px; cursor:pointer;" data-toggle="collapse" href="#Services">
+                        <a data-toggle="collapse" href="#Services" style="color:white;">Serviços</a>
+                      </h4>
+                    </div>
+                    <div id="Services" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <!-- Tabela de Imagens dos Serviços -->
+                        <table>
+                          <tbody>
+                            <!-- <tr>
+                                   <td valign="MIDDLE" align="CENTER">
+                                     <font size="5"color="white"> CMTS</font>
+                                     <img width="610" height="240" border="0" src="IP">
+                                    </td>
+                                    <td valign="MIDDLE" align="CENTER">
+                                      <font size="5"color="white"> CMTS</font>
+                                      <img width="610" height="240" border="0" src="IP">
+                                    </td> 
+                            -->
+                            <tr>                  
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> Google</div>                                          
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_GOOGLE_consolidado-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> Facebook</div>
+                                <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_FACEBOOK_consolidado-day.png">
+                              </td>    
+                              </tr>    
+                              <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> Netflix</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_NETFLIX_consolidado-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> Akamai</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_168-day.png">
+                                </td>  
+                              </tr>
+                              <tr>
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>Akamai Offload</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_AKAMAI-OFFLOAD_consolidado-day.png">
+                                  </td>
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>Akamai Rio 3 </div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_AKAMAI-HTTPS_consolidado-day.png">
+                                  </td>  
+                              </tr>
+                              <tr>
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>Akamai Rio 6</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_AKAMAI-HTTP+HTTPS_consolidado-day.png">
+                                  </td>
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>UDN-ERICSSON</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_UDN-ERICSSON_consolidado-day.png">
+                                  </td>  
+                              </tr>
+                              <tr>
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText> Globo</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_GLOBO_consolidado-day.png">
+                                  </td>
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>IPV6</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_IPV6_consolidado-day.png">
+                                  </td>  
+                              </tr>
+                              <tr>                
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> 19302-BSOD</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.34.18_27-day.png">
+                                </td>                                
+                              </tr>
+
+                            </tbody>
+                          </table>
+                          <br>
+                          <br>
+                          <a data-toggle="collapse" href="#Services" class="HDNBTT">Fechar</a>
+          
+                      </div>
+                    </div>
+                  </div>
+                </div> 
+              
+                <br>
+                <br>
+
+               <!--Div Interligações-->
+               <div class="panel-group">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title" style="width:150px; cursor:pointer;" data-toggle="collapse" href="#interlig">
+                      <a data-toggle="collapse" href="#interlig" style="color:white;">Interligações</a>
+                    </h4>
+                  </div>
+                  <div id="interlig" class="panel-collapse collapse">
+                    <div class="panel-body">
+                      <!-- Tabela de Imagens Netfone -->
+                      <table>
+                        <tbody>
+                              <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> Rio de Janeiro - Mesquita</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_243-day.png">
+                                </td> 
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> Rio de Janeiro - Niteroi</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.9_31-day.png">
+                                </td>  
+                              </tr>
+                              <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> Rio de Janeiro - Level 3</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_PEERING-RJO-LV3_consolidado-day.png">
+                                </td> 
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> Rio de Janeiro - Microsoft</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_MICROSOFT_consolidado-day.png">
+                                </td>  
+                              </tr>
+                              <tr>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText> Rio de Janeiro - Facebook</div>
+                                  <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/RJO_BOT-FBK_consolidado-day.png">
+                                </td>                                  
+                              </tr>                              
+                            </tbody> 
+                          </table>
+                          <br>
+                          <br>
+                          <br>
+                          <a data-toggle="collapse" href="#interlig" class="HDNBTT">Fechar</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div> 
+            
+                  <br>
+                  <br> 
+
+                  <!--Div Wi-Fi-->
+               <div class="panel-group">
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:150px; cursor:pointer;" data-toggle="collapse" href="#wifi">
+                        <a data-toggle="collapse" href="#wifi" style="color:white;">Wi-Fi</a>
+                      </h4>
+                    </div>
+                    <div id="wifi" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <!-- Tabela de Imagens Wi-Fi -->
+                        <table>
+                          <tbody>
+                                <tr>
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>Theatro</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.35_75-day.png">
+                                  </td> 
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>Aeroporto Gigas Gratis</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.35_76-day.png">
+                                  </td>  
+                                </tr>
+                                <tr>
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>Aeroporto Gigas Net</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.35_77-day.png">
+                                  </td> 
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>Aeroporto SDU Gratis</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.35_78-day.png">
+                                  </td>  
+                                </tr>
+                                <tr>
+                                  <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>Aeroporto SDU Net</div>
+                                    <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.35_79-day.png">
+                                  </td> 
+                                  <td valign="MIDDLE" align="CENTER">
+                                      <div class=BodyText>Claro Wi-Fi</div>
+                                      <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.35_113-day.png">
+                                  </td>                                  
+                                </tr>
+                                <tr>
+                                    <td valign="MIDDLE" align="CENTER">
+                                      <div class=BodyText>Net Virtua Wi-Fi</div>
+                                      <img width="610" height="240" border="0" src="http://gerencia.rjo.virtua.com.br/nagios_links/noc/graficos/png/interface_201.17.0.35_80-day.png">
+                                    </td> 
+                                </tr>                              
+                              </tbody> 
+                            </table>
+                            <br>
+                            <br>
+                            <br>
+                            <a data-toggle="collapse" href="#wifi" class="HDNBTT">Fechar</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div> 
+              
+                    <br>
+                    <br>   
+
+              <!--Div Fim do Container Painel-->
+              </div>
+            
+            
+             
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+    
+          
+    
+          </div>
+
+        <div class="tab-pane fade" id="nav-subs" role="tabpanel" aria-labelledby="nav-subs-tab">
+            <br>
+            <br>
+            <br>
+
+            <!--Div Subclusters-->
+            <div class='container-fluid' style="padding-bottom:50px;">
+             <div class="panel-group">
+              <!--BOTAFOGO -->              
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#SAM">
+                        <a data-toggle="collapse" href="#BTF" style="color:white;">Hub Botafogo</a> 
+                      </h4>
+                    </div>
+                      <div id="BTF" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables Botafogo-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-toggle="collapse" href="#BTFT">Tráfego</h6>
+                        <br>
+
+                                    <div id="BTFT" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Total</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/TRAF_RJOBOT-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv4</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/TRAF_IPV4_RJOBOT-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Total</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/TRAF_IPV6_RJOBOT-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> RJOBOTCMT02</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/TRAF_BSOD_RJOBOT-day.png">
+                                                </td>                                  
+                                              </tr> 
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>               
+
+                         <table>
+                          <tbody>                      
+                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOBOTCMT01</div>
+                                <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.141-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOBOTCMT02</div>
+                                <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.142-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOBOTCMT03</div>
+                                <img id="RJOBOTCMT03" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.143-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOBOTCMT04</div>
+                                <img id="RJOBOTCMT04" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.144-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOBOTCMT07</div>
+                                <img id="RJOBOTCMT07" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.147-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOBOTCMT08</div>
+                                <img id="RJOBOTCMT08" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.148-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOBOTCMT19</div>
+                                <img id="RJOBOTCMT19" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.159-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOBOTCMT20</div>
+                                <img id="RJOBOTCMT20" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.160-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOBOTCMT21</div>
+                                <img id="RJOBOTCMT21" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.161-day.png">
+                              </td>                              
+                              
+                            </tr>
+                            
+
+
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#BTF" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>           
+                <br>
+                <br>
+              <!--CAMPO GRANDE-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#CGE">
+                        <a data-toggle="collapse" href="#CGE" style="color:white;">Hub Campo Grande</a> 
+                      </h4>
+                    </div>
+                      <div id="CGE" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables Botafogo-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-togle="collapse" href="#Teste">Tráfego</h6>
+                        <br>
+
+                                    <div id="Teste" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Total</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_RJOCPG-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv4</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_IPV4_RJOCPG-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv6</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_IPV6_RJOCPG-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> BSOD</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_BSOD_RJOCPG-day.png">
+                                                </td>                                  
+                                              </tr> 
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>                  
+                         <table>
+                          <tbody>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOCPGCMT01</div>
+                                <img id="RJOCPGCMT01" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.141-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOCPGCMT02</div>
+                                <img id="RJOCPGCMT02" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.142-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOCPGCMT03</div>
+                                <img id="RJOCPGCMT03" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.143-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText> RJOCPGCMT04</div>
+                                <img id="RJOCPGCMT04" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.144-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOCPGC06</div>
+                                <img id="RJOCPGCMT06" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.146-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOCPGCMT07</div>
+                                <img id="RJOCPGCMT07" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.147-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOCPGCMT08</div>
+                                <img id="RJOCPGCMT08" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.148-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOCPGCMT09</div>
+                                <img id="RJOCPGCMT09" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.149-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOCPGCMT10</div>
+                                <img id="RJOCPGCMT10" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.150-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOCPGCMT11</div>
+                                <img id="RJOCPGCMT11" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.151-day.png">
+                              </td>                              
+                              
+                            </tr>
+                            
+
+
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#CGE" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>           
+                <br>
+                <br>
+               <!--FREGUESIA-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#FGA">
+                        <a data-toggle="collapse" href="#FGA" style="color:white;">Hub Freguesia</a> 
+                      </h4>
+                    </div>
+                      <div id="FGA" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables Botafogo-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-toggle="collapse" href="#FGAT">Tráfego</h6>
+                        <br>
+
+                                    <div id="FGAT" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Total</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/TRAF_RJOFRG-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv4</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/TRAF_IPV4_RJOFRG-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv6</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/TRAF_IPV6_RJOFRG-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> BSOD</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/TRAF_BSOD_RJOFRG-day.png">
+                                                </td>                                  
+                                              </tr> 
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> NOW</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/TRAF_NOW_RJOFRG-day.png">
+                                                </td>
+                                              </tr>
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>                 
+                        
+                         <table>
+                          <tbody>                      
+                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOFRGCMT02</div>
+                                <img id="RJOFRGCMT02" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.12-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOFRGCMT03</div>
+                                <img id="RJOFRGCMT03" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.13-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOFRGCMT04</div>
+                                <img id="RJOFRGCMT04" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.14-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOFRGCMT05</div>
+                                <img id="RJOFRGCMT05" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.15-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOFRGCMT06</div>
+                                <img id="RJOFRGCMT06S" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.16-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOFRGCMT07</div>
+                                <img id="RJOFRGCMT07" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.17-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOFRGCMT08</div>
+                                <img id="RJOFRGCMT08" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.18-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOFRGCMT09</div>
+                                <img id="RJOFRGCMT09" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.19-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOFRGCMT10</div>
+                                <img id="RJOFRGCMT10" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.20-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJOFRGCMT11</div>
+                                  <img id="RJOFRGCMT11" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.21-day.png">
+                              </td>                              
+                              
+                            </tr>
+                            <tr>
+                                      
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJOFRGCMT12</div>
+                                  <img id="RJOFRGCMT12" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.22-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>RJOFRGCMT13</div>
+                                    <img id="RJOFRGCMT13" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.23-day.png">
+                                </td>                              
+                                
+                            </tr>
+                            <tr>
+                                      
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJOFRGCMT14</div>
+                                  <img id="RJOFRGCMT14" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.24-day.png">
+                                </td>                                                             
+                                
+                            </tr>
+                            
+
+
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#FGA" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <br>
+                <br>
+              <!--MENA BARRETO-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#MBO">
+                        <a data-toggle="collapse" href="#MBO" style="color:white;">Hub Mena Barreto</a> 
+                      </h4>
+                    </div>
+                      <div id="MBO" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables Botafogo-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-toggle="collapse" href="#MBOT">Tráfego</h6>
+                        <br>
+
+                                    <div id="MBOT" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Total</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_RJOMNB-day.pn">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv4</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_IPV4_RJOMNB-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv6</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_IPV6_RJOMNB-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> BSOD</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_BSOD_RJOMNB-day.png">
+                                                </td>                                  
+                                              </tr>  
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>                
+
+                         <table>
+                          <tbody>                      
+                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOMNBCMT01</div>
+                                <img id="RJOMNBCMT01" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.231-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOMNBCMT02</div>
+                                <img id="RJOMNBCMT02" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.232-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOMNBCT03</div>
+                                <img id="RJOMNBCMT03" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.233-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOMNBCMT04</div>
+                                <img id="RJOMNBCMT04" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.234-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOMNBCMT05</div>
+                                <img id="RJOMNBCMT05" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.235-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOMNBCMT08</div>
+                                <img id="RJOMNBCMT08" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.238-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOMNBCMT09</div>
+                                <img id="RJOMNBCMT09" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.239-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOMNBCMT10</div>
+                                <img id="RJOMNBCMT10" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.240-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOMNBCMT11</div>
+                                <img id="RJOMNBCMT11" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.241-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJOMNBCMT12</div>
+                                  <img id="RJOMNBCMT12" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.242-day.png">
+                                </td>                              
+                              
+                            </tr>
+                            
+
+
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#MBO" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>           
+                <br>
+                <br>
+              <!--PARANÁ-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#PRA">
+                        <a data-toggle="collapse" href="#PRA" style="color:white;">Hub Paraná</a> 
+                      </h4>
+                    </div>
+                      <div id="PRA" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables Paraná-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-toggle="collapse" href="#PRAT">Tráfego</h6>
+                        <br>
+
+                                    <div id="PRAT" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Total</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/TRAF_RJOPRN-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv4</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/TRAF_IPV4_RJOPRN-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv6</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/TRAF_IPV6_RJOPRN-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> BSOD</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/TRAF_BSOD_RJOPRN-day.png">
+                                                </td>                                  
+                                              </tr> 
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div> 
+                         <table>
+                          <tbody>                      
+                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPRNCMT01</div>
+                                <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.71-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPRNCMT03</div>
+                                <img id="RJOPRNCMT03" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.73-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPRNCMT04</div>
+                                <img id="RJOPRNCMT04" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.74-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPRNCMT05</div>
+                                <img id="RJOPRNCMT05" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.75-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPRNCMT06</div>
+                                <img id="RJOPRNCMT06" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.76-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPRNCMT07</div>
+                                <img id="RJOPRNCMT07" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.77-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPRNCMT08</div>
+                                <img id="RJOPRNCMT08" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.78-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPRNCMT09</div>
+                                <img id="RJOPRNCMT09" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.79-day.png">">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJOPRNCMT10</div>
+                                  <img id="RJOPRNCMT10" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.82-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJOPRNCMT11</div>
+                                  <img id="RJOPRNCMT11" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.72-day.png">
+                                </td>
+                                
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPRNCMT12</div>
+                                <img id="RJOPRNCMT12" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.82-day.png">
+                              </td>                              
+                              
+                            </tr>
+                            
+
+
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#PRA" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div> 
+                <br>
+                <br>
+              <!--PIAUÍ-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#SAM">
+                        <a data-toggle="collapse" href="#PAI" style="color:white;">Hub Piauí</a> 
+                      </h4>
+                    </div>
+                      <div id="PAI" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables Botafogo-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-toggle="collapse" href="#PAIT">Tráfego</h6>
+                        <br>
+
+                                    <div id="PAIT" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Total</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/TRAF_RJOPIA-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv4</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/TRAF_IPV4_RJOPIA-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv6</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/TRAF_IPV6_RJOPIA-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> BSOD</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/TRAF_BSOD_RJOPIA-day.png">
+                                                </td>                                  
+                                              </tr>  
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>                 
+                         <table>
+                          <tbody>                      
+                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPIACMT01</div>
+                                <img id="RJOPIACMT01" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/modem_201.17.32.81-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPIACMT02</div>
+                                <img id="RJOPIACMT02" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/modem_201.17.32.82-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPIACMT11</div>
+                                <img id="RJOPIACMT11" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/modem_201.17.32.91-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPIACMT12</div>
+                                <img id="RJOPIACMT12" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/modem_201.17.32.92-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPIACMT18</div>
+                                <img id="RJOPIACMT18" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/modem_201.17.32.98-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPIACMT23</div>
+                                <img id="RJOPIACMT23" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/modem_201.17.32.103-day.png">
+                              </td>
+                              
+                            </tr>                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOPIACMT30</div>
+                                <img id="RJOPIACMT30" width="610"  height="240" border="0" src="http://201.17.1.248/nagios/noc/graficos/png/modem_201.17.32.110-day.png">
+                              </td>                              
+                              
+                            </tr>
+                            
+
+
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#PAI" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>           
+                <br>
+                <br>              
+              <!--RAMOS--> 
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#RMO">
+                        <a data-toggle="collapse" href="#RMO" style="color:white;">Hub Ramos</a> 
+                      </h4>
+                    </div>
+                      <div id="RMO" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables RAMOS-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-toggle="collapse" href="#RMOT">Tráfego</h6>
+                        <br>
+
+                                    <div id="RMOT" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Geral</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_RJORMS-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv4</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_IPV4_RJORMS-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv6</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_IPV6_RJORMS-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> BSOD</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/TRAF_BSOD_RJORMS-day.png">
+                                                </td>                                  
+                                              </tr> 
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>
+                         <table>
+                          <tbody>                      
+                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORMSCMT01</div>
+                                <img id="RJORMSCMT01" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.171-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORMSCMT02</div>
+                                <img id="RJORMSCMT02" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.172-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORMSCMT03</div>
+                                <img id="RJOBOTCMT03" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.173-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORMSCMT04</div>
+                                <img id="RJORMSCMT04" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.174-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORMSCMT05</div>
+                                <img id="RJORMSCMT05" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.175-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORMSCMT06</div>
+                                <img id="RJORMSCMT06" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.176-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORMSCMT07</div>
+                                <img id="RJORMSCMT07" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.177-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORMSCMT08</div>
+                                <img id="RJORMSCMT08" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.178-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORMSCMT09</div>
+                                <img id="RJORMSCMT09" width="610"  height="240" border="0" src="http://201.17.1.246/nagios/noc/graficos/png/modem_201.17.33.179-day.png">
+                              </td>                              
+                              
+                            </tr>
+                            
+
+
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#RMO" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>          
+                <br>
+                <br>
+              <!--RECREIO-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#RCO">
+                        <a data-toggle="collapse" href="#RCO" style="color:white;">Hub Recreio</a> 
+                      </h4>
+                    </div>
+                      <div id="RCO" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables RECREIO-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-toggle="collapse" href="#RCOT">Tráfego</h6>
+                        <br>
+
+                                    <div id="RCOT" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Total</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/TRAF_RJOREC-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv4</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/TRAF_IPV4_RJOREC-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv6</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/TRAF_IPV6_RJOREC-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> BSOD</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/TRAF_BSOD_RJOREC-day.png">
+                                                </td>                                  
+                                              </tr>  
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>                 
+                         <table>
+                          <tbody>                      
+                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORECCMT01</div>
+                                <img id="RJORECCMT01" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.11-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORECCMT02</div>
+                                <img id="RJORECCMT02" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.12-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORECCMT03</div>
+                                <img id="RJORECCMT03" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.13-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORECCMT04</div>
+                                <img id="RJORECCMT04" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.14-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORECCMT05</div>
+                                <img id="RJORECCMT05" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.15-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORECCMT06</div>
+                                <img id="RJORECCMT06" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.16-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORECCMT07</div>
+                                <img id="RJORECCMT07" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.17-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJORECCMT08</div>
+                                <img id="RJORECCMT08" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.18-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJORECCMT09</div>
+                                  <img id="RJORECCMT09" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.19-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJORECCMT11</div>
+                                  <img id="RJORECCMT10" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.21-day.png">
+                                </td>
+                                
+                            </tr>
+                            <tr>
+                                      
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJORECCMT12</div>
+                                  <img id="RJORECCMT11" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.22-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJORECCMT13</div>
+                                  <img id="RJORECCMT12" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.23-day.png">
+                                </td>
+                                
+                            </tr>
+                            <tr>
+                                      
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJORECCMT14</div>
+                                  <img id="RJORECCMT13" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.24-day.png">
+                                </td>
+                                <td valign="MIDDLE" align="CENTER">
+                                  <div class=BodyText>RJORECCMT15</div>
+                                  <img id="RJORECCMT14" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.25-day.png">
+                                </td>
+                                
+                            </tr>
+                            <tr>
+
+                                <td valign="MIDDLE" align="CENTER">
+                                    <div class=BodyText>RJORECCMT16</div>
+                                    <img id="RJORECCMT13" width="610"  height="240" border="0" src="http://201.17.1.252/nagios/noc/graficos/png/modem_201.17.33.26-day.png">
+                                  </td>                            
+                              
+                            </tr>
+                            
+
+
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#RCO" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>          
+                <br>
+                <br>
+              <!--SULACAP-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#SCP">
+                        <a data-toggle="collapse" href="#SCP" style="color:white;">Hub Sulacap</a> 
+                      </h4>
+                    </div>
+                      <div id="SCP" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables Botafogo-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-toggle="collapse" href="#SCPT">Tráfego</h6>
+                        <br>
+
+                                    <div id="SCPT" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> Tráfego Total</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/TRAF_RJOSLC-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv4</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/TRAF_IPV4_RJOSLC-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> IPv6</div>
+                                                  <img id="RJOBOTCMT01" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/TRAF_IPV6_RJOSLC-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText> BSOD</div>
+                                                  <img id="RJOBOTCMT02" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/TRAF_BSOD_RJOSLC-day.png">
+                                                </td>                                  
+                                              </tr>  
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>                 
+
+                         <table>
+                          <tbody>                      
+                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOSLCCMT01</div>
+                                <img id="RJOSLCCMT01" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.201-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOSLCCMT02</div>
+                                <img id="RJOSLCCMT02" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.202-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOSLCCMT03</div>
+                                <img id="RJOSLCCMT03" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.203-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOSLCCMT04</div>
+                                <img id="RJOSLCCMT04" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.204-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOSLCCMT05</div>
+                                <img id="RJOSLCCMT05" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.205-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOSLCCMT06</div>
+                                <img id="RJOSLCCMT06" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.206-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOSLCCMT07</div>
+                                <img id="RJOSLCCMT07" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.207-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOSLCCMT08</div>
+                                <img id="RJOSLCCMT08" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.208-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOSLCCMT09</div>
+                                <img id="RJOSLCCMT09" width="610"  height="240" border="0" src="http://201.17.1.247/nagios/noc/graficos/png/modem_201.17.33.209-day.png">
+                              </td>                              
+                              
+                            </tr>
+                            
+
+
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#SCP" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>          
+                <br>
+                <br>
+              <!--TIJUCA-->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title" style="width:250px; cursor:pointer;" data-toggle="collapsex" href="#TJA">
+                        <a data-toggle="collapse" href="#TJA" style="color:white;">Hub Tijuca</a> 
+                      </h4>
+                    </div>
+                      <div id="TJA" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        <div id= "some_div">
+
+                        <!-- Tabela de Imagens - Cables Botafogo-->
+                        <br>                        
+                        <h6 class="HDNBTT" style="width:250px; cursor:pointer;" data-toggle="collapse" href="#TJAT">Tráfego</h6>
+                        <br>
+
+                                    <div id="TJAT" class="panel-collapse collapse">
+                                      <div class="panel-body">
+                                        <div id= "some_div">
+                                            <!-- Tabela de Imagens - Tráfego Botafogo-->
+                                          <table>
+                                          <tbody>                      
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText>Tráfego Total</div>
+                                                  <img id="RJOTIJCMT01" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/TRAF_RJOTIJ-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText>IPv4</div>
+                                                  <img id="RJOTIJCMT02" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/TRAF_IPV4_RJOTIJ-day.png">
+                                                </td>                                  
+                                              </tr>
+                                              <tr>                                          
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText>IPv6</div>
+                                                  <img id="RJOTIJCMT01" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/TRAF_IPV6_RJOTIJ-day.png">
+                                                </td>
+                                                <td valign="MIDDLE" align="CENTER">
+                                                  <div class=BodyText>BSOD</div>
+                                                  <img id="RJOTIJCMT02" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/TRAF_BSOD_RJOTIJ-day.png">
+                                                </td>                                  
+                                              </tr>  
+                                          </tbody>
+                                        </table>
+                                        <br>
+                                        <br>
+                                        <br>
+                                      </div>
+                                    </div>
+                                  </div>                 
+                          
+                                <br>
+                                <br>
+
+
+                         <table>
+                          <tbody>                      
+                            
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT01</div>
+                                <img id="RJOTIJCMT01" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.201-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT02</div>
+                                <img id="RJOTIJCMT02" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.202-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT03</div>
+                                <img id="RJOTIJCMT03" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.203-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT05</div>
+                                <img id="RJOTIJCMT05" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.205-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOBOTCMT07</div>
+                                <img id="RJOBOTCMT07" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.207-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT08</div>
+                                <img id="RJOTIJCMT08" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.209-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT09</div>
+                                <img id="RJOTIJCMT09" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.159-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT10</div>
+                                <img id="RJOTIJCMT10" width="610"  height="240" border="0" src="http://201.17.1.249/nagios/noc/graficos/png/modem_201.17.32.160-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT11</div>
+                                <img id="RJOTIJCMT11" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.210-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT12</div>
+                                <img id="RJOTIJCMT12" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.211-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT15</div>
+                                <img id="RJOTIJCMT15" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.212-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT16</div>
+                                <img id="RJOTIJCMT16" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.215-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT17</div>
+                                <img id="RJOTIJCMT17" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.217-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT18</div>
+                                <img id="RJOTIJCMT18" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.218-day.png">
+                              </td>
+                              
+                            </tr>
+                            <tr>
+                                      
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT20</div>
+                                <img id="RJOTIJCMT20" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.220-day.png">
+                              </td>
+                              <td valign="MIDDLE" align="CENTER">
+                                <div class=BodyText>RJOTIJCMT21</div>
+                                <img id="RJOTIJCMT21" width="610"  height="240" border="0" src="http://201.17.0.110/nagios/noc/graficos/png/modem_201.17.32.221-day.png">
+                              </td>
+                              
+                            </tr>  
+                         </tbody>
+                        </table>
+                        <br>
+                        <br>
+                        <br>
+                                                
+                        <a data-toggle="collapse" href="#TJA" class="HDNBTT">Fechar</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>          
+                <br>
+                <br>
+
+
+
+                            
+              </div>
+            
+        
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+    
+          
+    
+          </div>
+        </div>
+  
+  
+  <!-- Contatos -->
+ <div class="modal fade" id="ContatosDTC" tabindex="-1" role="dialog" aria-labelledby="ContatosDTCLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="ContatosDTCLabel">Contatos da Cidade</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Ao evidenciar problemas, lembre-se de seguir a ordem de escalonamento necessária para deixar a cidade ciente do problema, seguindo a <a href="/Files/PGP.pdf">ordem processual</a>:</p>
+        <ol>
+            <li>Contatar pontos focais (Datacenter/Headend)</li>
+            <li>Em caso de falha, contatar respectivos superiores (Supervisores e Coordenadores do Datacenter/Headend)</li>
+            <li>Acionar Supervisão e o respectivo Staff</li>
+        </ol>
+        <br>
+        <h5><strong>Datacenter:</strong></h5>
+        <br>
+          <table class="table table-sm">
+              <thead>
+                <tr>
+                  <th scope="col">Contato</th>
+                  <th scope="col">Telefone</th>
+                <th scope="col">Função</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <th scope="row">Fixo</th>
+                  <td>2121213201</td>
+                <td>Datacenter</td>
+                </tr>
+                <tr>
+                  <th scope="row">Almir Lobo</th>
+                  <td>10621 opcão 261 </td>
+                  <td>Analista</td>
+                </tr>
+                <tr>
+                  <th scope="row">Fernanda Conceição</th>
+                  <td>10621 opcão 261 </td>
+                  <td>Analista</td>
+                </tr>
+              <tr>
+                  <th scope="row">Alvaro Dias</th>
+                  <td>10621 opcão 261 </td>
+                  <td>Analista</td>
+                </tr>
+              <tr>
+                  <th scope="row">Paulo Oliveira</th>
+                  <td>10621 opcão 261 </td>
+                  <td>Analista</td>
+              </tr>
+              </tbody>
+              <thread>
+                  <tr>
+                      <th scope="col">Email</th>
+                      <th scope="col">suporte.datacenterrjo@net.com.br</th>
+                    </tr>
+              </thread>
+          </table>
+          <br>
+          <br>
+
+          <h5><strong>Headend:</strong></h5>
+          <br>
+          <table class="table table-sm">
+          <thead>
+              <tr>
+                <th scope="col">Contato</th>
+                <th scope="col">Telefone</th>
+              <th scope="col">Função</th>
+              </tr>
+            </thead>
+              <tbody>
+                  <tr>
+                    <th scope="row">CORPORATIVO</th>
+                    <td>21993576016</td>
+                    <td>Headend</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Fixo</th>
+                    <td>2121762261</td>
+                    <td>Headend</td>
+                  </tr>                  
+                </tbody>
+                <thread>
+                    <tr>
+                        <th scope="col">Email</th>
+                        <th scope="col">Head-End.rjo@net.com.br</th>
+                      </tr>
+
+                </thread>
+            </table>
+            <br>
+            <br>
+
+          <h5><strong>Coordenadores:</strong></h5>
+          <br>
+            <table class="table table-sm">
+              <thread>
+                <tr>
+                  <th scope="col">Nome</th>
+                  <th scope="col">Telefone</th>
+                  <th scope="col">Setor</th>
+                </tr>
+              </thread>
+              <tbody>
+                <tr>
+                  <th scope="row">Thiago Oliveira</th>
+                  <td>21994059456</td>
+                  <td>Coordenador Datacenter</td>
+                </tr>
+                <tr>
+                  <th scope="row">André Castelan</th>
+                  <td>21993574676</td>
+                  <td>Coordenador Datacenter</td>
+                </tr>
+                <tr>
+                  <th scope="row">Marcelo Santos</th>
+                  <td>21994068460</td>
+                  <td>Coordenador Datacenter</td>
+                </tr><tr>
+                  <th scope="row">Rafael Totola</th>
+                  <td>21994359314</td>
+                  <td>Coordenador Headend</td>
+                </tr>
+                <tr>
+                  <th scope="row"> Alex André</th>
+                  <td>21994105884</td>
+                  <td>Coordenador Headend</td>
+                </tr>
+                <tr>
+                  <th scope="row">Rogério Fernandes</th>
+                  <td>21992168424</td>
+                  <td>Coordenador Headend</td>
+                </tr>
+                <tr>
+                  <th scope="row">Sérgio Ricardo</th>
+                  <td>21994334466</td>
+                  <td>Coordenador Headend</td>
+                </tr>
+                <tr>
+                    <th scope="row">Rodrigo Tadeu</th>
+                    <td>91984268741</td>
+                    <td>Gerente Datacenter</td>
+                </tr>
+                <tr>
+                  <th scope="row">Milton Júnior </th>
+                  <td>21992168424</td>
+                  <td>Gerente Headend</td>
+                </tr>
+                <tr>
+                    <th scope="row">Tatiana Souza </th>
+                    <td>81992586780</td>
+                    <td>Staff Net</td>
+                </tr>
+                <tr>
+                    <th scope="row">Cristiano Felizardo</th>
+                    <td>21976746235</td>
+                    <td>Coordenador COP Rede</td>
+                </tr>
+                <tr>
+                  <th scope="row">Gabriel Ricardo</th>
+                  <td>21994390337</td>
+                  <td>Coordenador COP Rede</td>
+              </tr>
+              </tbody>
+            </table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-primary" data-dismiss="modal">Sair</button>
+        <button type="button" class="btn btn-danger" style="position:absolute; left:0;"><a style="color:white" href="mailto:allan.cardoso@net.com.br; kalleb.camara@net.com.br; douglas.araujo@net.com.br; wellington.moraes@net.com.br;fabio.barzano@net.com.br; marcio.tanaka@net.com.br; costa.bthiago@net.com.br;Mario.EduardoMiralhaSeabra@net.com.br;Vitor.Pinheiro@net.com.br;Denise.Tanaka@net.com.br;Datacenter.Blm@net.com.br;cindi@viaecia.com;luis.fernando@videoseg.com.br;priscila.pantoja@videoseg.com.br;keila.Luciana@videoseg.com.br;kleber.ventura@viaecia.com;yasmin.saraiva@videoseg.com.br;herlenviaecia@gmail.com;Luiz.Silva4f95e@net.com.br?cc=higo.andrade@claro.com.br; thiago.nascimento2@claro.com.br; Eduardo.Lima2@claro.com.br; tatiana.statiana@claro.com.br; Adriana.MarquesMoreira@claro.com.br; Anderson.LuizSilva@net.com.br; Lenilson.FerreiraSouza@claro.com.br; Sidnei.Carvalho@claro.com.br; carlos.ferreira@call.neobpo.com.br; carlos.silva@call.neobpo.com.br; jucivan.braz@neobpo.com.br;"> Enviar Email </a></button>
+      </div>
+    </div>
+  </div>
+</div>
+  
+  
+  
+    <!-- Informações -->
+    <div class="modal fade" id="myModal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+        
+          <!-- Modal Header -->
+          <div class="modal-header">
+            <h4 class="modal-title">Guia de Informações - Nagios</h4>
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+          </div>
+          
+          <!-- Modal body -->
+          <div class="modal-body">
+            <h6><strong>DHCP:</strong></h6>
+            O DHCP (Dynamic Host Configuration Protocol) é o protocolo responsavel pela atribuição de endereços de IP aos dispositivos de forma automática. Degradações nestes indicadores afetarão os clientes os deixando sem Navegação.
+            Segundo o <a href="/Files/Book Cop Rede.pdf#page=35" target="_blank">Book do COP Rede </a>, temos que as taxas de <strong style="color:orangered;">Discovery</strong> e <strong style="color:blue;">Offers</strong> são os indicadores a serem observados e qualquer alteração no comportamento dos mesmos (descolamento) pode ser indício de problemas.
+            <br>
+            <br>
+            <br>
+  
+            <h6><strong>Links:</strong></h6>
+            Principal indicador do status dos serviços. Qualquer alteração no comportamento dos mesmos afeta o cliente onde o mesmo se encontrará Sem Navegação, com Lentidão, Intemitente (Para os Serviços Virtua e Aplicações Web; e Picotando, Chiados para o serviço Netfone) e até Sem Sinal.  <a href="/Files/Book Cop Rede.pdf#page=26" target="_blank">(Exemplos)</a>           
+            <br>
+            <br>
+            <br>
+            <h6><strong>Cables CMTS:</strong></h6>
+            Monitoramento de clientes Online por CMTS, alterações nestes gráficos indicam possíveis quedas de energia, rompimentos de fibra, alteração nos sinais e outros fatores que levem o cliente a ficar sem sinal. <a href="/Files/Book Cop Rede.pdf#page=10" target="_blank">(Exemplos)</a>
+            <br>
+          </div>
+          
+          <!-- Modal footer -->
+          <div class="modal-footer">
+            <button type="button" class="btn btn-danger" data-dismiss="modal">Sair</button>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="modal fade" id="DeuRuim" tabindex="-1" role="dialog" aria-labelledby="DeuRuimLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="DeuRuimLabel">OOPS, </h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            Parece que temos alguns CMTS com geração acima da média. Favor validar os mesmos antes de seguir com a análise.
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-primary" data-dismiss="modal"> OK!</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  
+
+  
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <iframe src="http://gerencia.rjo.virtua.com.br" style="border:none; display:none;"></iframe>
+        <iframe src="http://201.17.1.249" style="border:none; display:none;"></iframe>
+        <iframe src="http://201.17.1.248" style="border:none; display:none;"></iframe>
+        <iframe src="http://201.17.1.247" style="border:none; display:none;"></iframe>
+        <iframe src="http://201.17.1.246" style="border:none; display:none;"></iframe>
+        <iframe src="http://201.17.0.110" style="border:none; display:none;"></iframe>
+        <iframe src="http://201.17.1.252" style="border:none; display:none;"></iframe>
+        
+  
+         <!-- Footer Bar -->
+         <footer style="bottom:0; left:0; position: static; z-index:-1; width: 100%; height: 2.5rem;">
+          <div class="dropdown">
+            <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="width:50px; height:20px; right:15px; bottom:-30px; position:absolute; background-color:white;">
+              <small style="color:black; position:relative; bottom:10px; right:5px; ">Tema</small>
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" name="themeSelect" id="themeSelect">
+              <a class="dropdown-item" onclick= DefaultTheme() >Default</a>
+              <a class="dropdown-item" onclick= PurpleTheme() >Purple</a>
+              <a class="dropdown-item" onclick= BlackTheme() >Black</a>
+            </div>
+          </div>  
+          
+          <div class="container" style="color:white; position:absolute;">
+            Em caso de identificação de problemas/erros informar via e-mail (cromasdev@gmail.com) -->
+          </div>
+          </footer>
+
+
+      
+      </body>
+</html>

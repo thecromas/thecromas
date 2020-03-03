@@ -1,0 +1,76 @@
+===== Recife
+=======================================================================================
+= http://gerencia.rce.virtua.com.br/
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+= DHCP
+= RCEDTCLDM011 -http://gerencia.rce.virtua.com.br/noc/graficos/png/dhcp_186.223.128.14-day.png
+=RCEDTCLDM051 -http://gerencia.rce.virtua.com.br/noc/graficos/png/dhcp_186.223.128.67-day.png
+= RCEDTCLDM053 -
+http://gerencia.rce.virtua.com.br/noc/graficos/png/dhcp_186.223.128.69-day.png
+
+
+=-----------------------------------------------------------------------------------------------------------------------------------------
+=LINKS
+=CONSOLIDADO - 
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/RCE_EBT_consolidado-day.png
+=RCE-IP-13256 -  
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.1_279-day.png
+
+=RCE-IP-13257 - 
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.11_306-day.png
+
+=RCE-IP-13404 - 
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.1_340-day.png
+
+=RCE-IP-13857 - 
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.1_277-day.png
+
+=RCE-IP-13858 - 
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.11_323-day.png
+
+=RCE-IP-14140 - 
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.11_315-day.png
+
+
+=---------------------------------------------------------------------------------------------------------------------------------------------------------
+=CABLES
+=RCEDTCCMT01 - 
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.2-day.png
+=RCEDTCCMT02 - 
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.3-day.png
+=RCEDTCCMT03 - http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.4-day.png
+=RCEDTCCMT04 - 
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.6-day.png
+=RCEDTCCMT05 - 
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.7-day.png
+=RCEDTCCMT06 - 
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.8-day.png
+=RCEDTCCMT07 - 
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.9-day.png
+=RCEDTCCMT08 - 
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.10-day.png
+=RCEHBVCMT01 -
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.101-day.png
+=RCEHBVCMT02 -
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.102-day.png
+=RCEHBVCMT03 -
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.103-day.png
+=RCEHBVCMT04 -
+http://gerencia.rce.virtua.com.br/nagios/noc/graficos/png/modens_186.223.128.104-day.png
+
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=NETFONE
+=11228 - http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.11_15-day.png
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=SERVIÇOS
+=GOOGLE - http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/RCE_GOOGLE_consolidado-day.png
+=FACEBOOK - http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/RCE_FACEBOOK_consolidado-day.png
+=AKAMAI - http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.11_303-day.png
+=NETFLIX - 
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/RCE_NETFLIX_consolidado-day.png
+=RCE IPV6 - 
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/RCE_IPV6_consolidado-day.png
+=PRIMESYS - 
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.11_13-day.png
+=BSOD -
+http://gerencia.rce.virtua.com.br/nagios_links/noc/graficos/png/interface_186.223.128.11_13-day.png

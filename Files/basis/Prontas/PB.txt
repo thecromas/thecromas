@@ -1,0 +1,95 @@
+João Pessoa  http://gerencia.jpa.virtua.com.br/nagios/noc/painel/index.php
+
+DHCP 
+
+JPADTCLDM052 - http://gerencia.jpa.virtua.com.br/noc/graficos/png/dhcp_187.64.0.24-day.png
+JPADTCLDM062 - http://gerencia.jpa.virtua.com.br/noc/graficos/png/dhcp_187.64.0.35-day.png 
+JPADTCLDM064 - http://gerencia.jpa.virtua.com.br/noc/graficos/png/dhcp_187.64.0.36-day.png
+
+LINKS 
+CONSOLIDADO - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/JPA_EBT_consolidado-day.png
+05625 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.100_80-day.png
+05626 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_293-day.png
+05641 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.100_203-day.png
+05642 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_295-day.png
+05872 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_181-day.png
+05873 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.100_33-day.png
+05933 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_151-day.png
+05934 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_152-day.png
+05935 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_153-day.png
+
+
+CABLES
+
+JPADTCCMT01 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.2-day.png
+JPADTCCMT02 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.8-day.png
+JPADTCCMT03 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.14-day.png
+JPADTCCMT04 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.21-day.png
+JPADTCCMT06 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.3-day.png
+JPADTCCMT07 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.7-day.png
+JPAMIRCMT01 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.23-day.png
+JPAMIRCMT02 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.4-day.png
+JPAMIRCMT03 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.13-day.png
+JPAMIRCMT04 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.20-day.png
+JPAMIRCMT05 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.12-day.png
+JPAMIRCMT06 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.27-day.png
+JPAMIRCMT07 - http://gerencia.jpa.virtua.com.br/nagios/noc/graficos/png/modem_187.64.0.19-day.png
+
+DIGITAL 
+
+JPA - NTL  - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_253-day.png
+JPA - CGE - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_304-day.png
+
+NETFONE 
+
+JPA019999 - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_168-day.png
+
+SERVIÇOS
+GOOGLE - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/JPA_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/JPA_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/JPA_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/JPA_AKAMAI_consolidado-day.png
+BSOD - http://gerencia.jpa.virtua.com.br/nagios_links/noc/graficos/png/interface_187.64.0.11_92-day.png
+
+
+Campina Grande  http://gerencia.cge.virtua.com.br/nagios/noc/painel/index.php
+
+DHCP 
+
+CGEDTCLDM011  - http://gerencia.cge.virtua.com.br/noc/graficos/png/dhcp_187.183.192.14-day.png
+
+LINKS
+
+00577 - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_86-day.png
+00586 - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_87-day.png
+00599 - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_159-day.png
+00600 - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_160-day.png
+00607 - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_149-day.png
+
+CABLES
+
+CGEDTCCMT04 - http://gerencia.cge.virtua.com.br/nagios/noc/graficos/png/modem_187.183.192.8-day.png
+
+DIGITAL
+CAMPINA GRANDE - JOÃO PESSOA 
+CONSOLIDADO - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/CGE_TVDIG-CGE-JPA_consolidado-day.png
+01 - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_92-day.png
+02 - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_93-day.png
+03 - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_265-day.png
+
+
+NOW
+CAMPINA GRANDE -SEARÁ - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_273-day.png
+
+NETFONE 
+00578 - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_88-day.png
+
+SERVIÇOS
+FACEBOOK - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/CGE_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/CGE_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/CGE_AKAMAI_consolidado-day.png
+BSOD - http://gerencia.cge.virtua.com.br/nagios_links/noc/graficos/png/interface_187.183.192.1_95-day.png
+
+
+
+

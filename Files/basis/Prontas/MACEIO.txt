@@ -1,0 +1,83 @@
+===== Maceió
+=======================================================================================
+= http://gerencia.mco.virtua.com.br/
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+= DHCP
+= MCODTCLDM53 -
+http://gerencia.mco.virtua.com.br/noc/graficos/png/dhcp_187.65.0.43-day.png
+= MCODTCLDM61 -
+http://gerencia.mco.virtua.com.br/noc/graficos/png/dhcp_187.65.0.46-day.png
+=-----------------------------------------------------------------------------------------------------------------------------------------
+=LINKS
+=CONSOLIDADO - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/MCO_EBT_consolidado-day.png
+=MCO-IP-08759 -  
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_24-day.png
+=MCO-IP-08971 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_275-day.png
+=MCO-IP-08972 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_276-day.png
+=MCO-IP-08973 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_277-day.png
+=MCO-IP-08982 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_479-day.png
+=MCO-IP-08988 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_349-day.png
+=MCO-IP-08989 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_37-day.png
+=MCO-IP-09160 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_400-day.png
+=MCO-IP-09199 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_15-day.png
+=MCO-IP-09200 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_16-day.png
+=MCO-IP-09271 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_268-day.png
+=MCO-IP-09272 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_577-day.png
+=MCO-IP-09273 - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_23-day.png
+
+=---------------------------------------------------------------------------------------------------------------------------------------------------------
+=CABLES
+=MCODTCCMT01 - 
+http://gerencia.mco.virtua.com.br/nagios/noc/graficos/png/modem_187.65.0.10-day.png
+=MCODTCCMT02 - 
+http://gerencia.mco.virtua.com.br/nagios/noc/graficos/png/modem_187.65.0.3-day.png
+=MCODTCCMT03 - 
+http://gerencia.mco.virtua.com.br/nagios/noc/graficos/png/modem_187.65.0.13-day.png
+=MCODTCCMT04 - 
+http://gerencia.mco.virtua.com.br/nagios/noc/graficos/png/modem_187.65.0.6-day.png
+=MCODTCCMT05 - 
+http://gerencia.mco.virtua.com.br/nagios/noc/graficos/png/modem_187.65.0.7-day.png
+=MCODTCCMT06 - 
+http://gerencia.mco.virtua.com.br/nagios/noc/graficos/png/modem_187.65.0.8-day.png
+=MCODTCCMT07 - 
+http://gerencia.mco.virtua.com.br/nagios/noc/graficos/png/modem_187.65.0.12-day.png
+=MCODTCCMT08 - 
+http://gerencia.mco.virtua.com.br/nagios/noc/graficos/png/modem_187.65.0.23-day.png
+=MCODTCCMT09 -
+http://gerencia.mco.virtua.com.br/nagios/noc/graficos/png/modem_187.65.0.26-day.png
+
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=NETFONE
+=04362 -
+ http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_322-day.png
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=SERVIÇOS
+=IPV6 -
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/MCO_IPV6_consolidado-day.png
+=GOOGLE - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/MCO_GOOGLE_consolidado-day.png
+=FACEBOOK - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/MCO_FACEBOOK_consolidado-day.png
+=NETFLIX - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/MCO_NETFLIX_consolidado-day.png
+=AKAMAI - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/MCO_AKAMAI_consolidado-day.png
+=DIGITAL MCO-AJU - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/MCO_TVDIG_MCO-AJU_consolidado-day.png
+=BSOD - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_266-day.png
+=MCO-INSERCAO-COMERCIAL - 
+http://gerencia.mco.virtua.com.br/nagios_links/noc/graficos/png/interface_187.65.0.110_359-day.png

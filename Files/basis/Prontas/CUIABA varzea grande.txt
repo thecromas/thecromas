@@ -1,0 +1,106 @@
+===== Cuiabá
+=======================================================================================
+=http://gerencia.cba.virtua.com.br/
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+= DHCP
+= CBADTCLDM41 -
+ http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/dhcp_187.123.29.56-day.png
+=CBADTCLDM52 -
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/dhcp_187.123.29.57-day.png
+
+=-----------------------------------------------------------------------------------------------------------------------------------------
+=LINKS
+=CONSOLIDADO - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/CBA_EBT_consolidado-day.png
+= IP-01291 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_111-day.png
+= IP-01292 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_34-day.png
+= IP-01656 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_32-day.png
+= IP-01698 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_127-day.png
+= IP-02025 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_9-day.png
+= IP-02026 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_77-day.png
+= IP-02153 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_12-day.png
+= IP-02292 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_126-day.png
+= IP-02541 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_112-day.png
+= IP-02542 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_115-day.png
+= IP-02543 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_114-day.png
+= IP-02544 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_47-day.png
+= IP-02545 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_48-day.png
+= IP-02546 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_49-day.png
+= IP-02703 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_40-day.png
+= IP-02704 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_41-day.png
+= IP-02705 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_42-day.png
+= IP-02706 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_43-day.png
+= IP-02707 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_44-day.png
+
+
+=---------------------------------------------------------------------------------------------------------------------------------------------------------
+=CABLES
+
+= CBADTCCMT01 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.2-day.png
+= CBADTCCMT03 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.4-day.png
+= CBADTCCMT04 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.5-day.png
+= CBADTCCMT05 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.6-day.png
+= CBADTCCMT06 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.7-day.png
+= CBADTCCMT07 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.8-day.png
+= CBADTCCMT08 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.9-day.png
+= CBADTCCMT09 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.12-day.png
+= CBADTCCMT10 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.13-day.png
+= CBADTCCMT11 - 
+http://gerencia.cba.virtua.com.br/nagios/noc/graficos/png/modem_187.123.29.14-day.png
+
+
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=NETFONE
+=01289 -
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_125-day.png
+
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=SERVIÇOS
+=GNA IPV6 - http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/CBA_IPV6_consolidado-day.png
+=GOOGLE - http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/CBA_GOOGLE_consolidado-day.png
+=FACEBOOK - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/CBA_FACEBOOK_consolidado-day.png
+=TVDIG_CBA-CPE - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/CBA_TVDIG_CBA-CPE_consolidado-day.png
+=CBA-PTT-ATM - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_16-day.png
+=CBA-PTT-EAQ -
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_36-day.png
+=CBA-AKAMAI-1 - 
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_11-day.png
+=CBA-BSOD-1 -
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.20_33-day.png
+=CBA-BSOD-2 -
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_63-day.png
+=PEERING-CBA-ROI-1 -
+http://gerencia.cba.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.29.11_13-day.png
+
+=-------------------------------------------------------------------------------------------------------------------------------------------------------

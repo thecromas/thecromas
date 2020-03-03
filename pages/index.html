@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Central Nagios - Analítico </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">  
+        <link rel="stylesheet" href="/bootstrap-4.3.1/dist/css/bootstrap.min.css">
+        <link id="themeStylesheet" rel="stylesheet" href="/css/default.css">
+        <meta http-equiv="refresh" content="500">
+        <script src="/Js/jquery-3.4.1.min.js"></script>
+        <script src="/Js/popper.min.js"></script>
+        <script src="/bootstrap-4.3.1/dist/js/bootstrap.js"></script>
+        <script src="themes.js"></script>
+        <title>Central Nagios</title>
+      </head>
+    <body>
+        
+        <div class="jumbotron" style="background:rgb(85, 23, 126);opacity: 0.9;">
+            <h2 style="color:white;">Central Nagios - <small> Analítico</small></h2>
+        </div>   
+      
+          <div class="container mt-3"style="padding-right:300; margin-left:0; left:0;">
+              <!-- Nav tabs -->
+              <ul class="nav nav-tabs" style="background:white; margin-right:850px">
+                <li class="nav-item">
+                  <a class="nav-link active" data-toggle="tab" href="#home" style="margin-left:0;width:130px">Cluster Leste</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" data-toggle="tab" href="#menu1"style="margin-left:0;width:130px">Cluster SPI</a>
+                </li>
+              </ul>
+            
+              <!-- Tab panes -->
+              <div class="tab-content">
+                <div id="home" class="container tab-pane active" style=" margin-left:0;left:0;"><br>
+                  <div id="Menu">
+                      <!--Guia1 - Leste-->
+                      <div class="card" style="width: 300px">
+                        <div class="card-header">
+                          <a class="card-link" data-toggle="collapse" href="#PuxaUm">
+                            Cluster Norte
+                          </a>
+                        </div>
+                        <div id="PuxaUm" class="collapse" data-parent="#Menu">
+                          <div class="card-body">
+                            <ul class="list-group list-group-flush">
+                              <li class="list-group-item"><a href="/pages/mns.html">Manaus</a></li>
+                              <li class="list-group-item"><a>Belém</a></li>
+                              <li class="list-group-item"><a>São Luís</a></li>
+    
+                            </ul> 
+                          </div>
+                        </div>
+                      </div>
+                    
+                      <div class="card"style="width: 300px">
+                        <div class="card-header">
+                          <a class="collapsed card-link" data-toggle="collapse" href="#PuxaDois">
+                            Cluster Nordeste
+                          </a>
+                        </div>
+                        <div id="PuxaDois" class="collapse" data-parent="#Menu">
+                          <div class="card-body">
+                            
+                          </div>
+                        </div>
+                      </div>
+                    
+                      <div class="card"style="width: 300px">
+                        <div class="card-header">
+                          <a class="collapsed card-link" data-toggle="collapse" href="#PuxaTres">
+                            Cluster Centro-Oeste
+                          </a>
+                        </div>
+                        <div id="PuxaTres" class="collapse" data-parent="#Menu">
+                          <div class="card-body">
+                            Em Construcao
+                          </div>
+                        </div>
+                      </div>
+                    
+
+
+                      <div class="card"style="width: 300px">
+                        <div class="card-header">
+                          <a class="collapsed card-link" data-toggle="collapse" href="#PuxaQuatro">
+                            Cluster Minas
+                          </a>
+                        </div>
+                        <div id="PuxaQuatro" class="collapse" data-parent="#Menu">
+                          <div class="card-body">
+                            
+                          </div>
+                        </div>
+                      </div>
+
+
+                      <div class="card"style="width: 300px">
+                        <div class="card-header">
+                          <a class="collapsed card-link" data-toggle="collapse" href="#PuxaCinco">
+                            Cluster Rio de Janeiro
+                          </a>
+                        </div>
+                        <div id="PuxaCinco" class="collapse" data-parent="#Menu">
+                          <div class="card-body">
+                            
+                          </div>
+                        </div>
+                      </div>
+
+                    </div> 
+                </div>
+
+                <!--Guia2 - SPI -->
+                <div id="menu1" class="container tab-pane fade" style="margin-left:0; left:0;"><br>
+                  <div id="Menu2">
+
+                    <div class="card" style="width: 300px">
+                      <div class="card-header">
+                        <a class="card-link" data-toggle="collapse" href="#PuxaaUm">
+                          Cluster São Paulo - Oeste
+                        </a>
+                      </div>
+                      <div id="PuxaaUm" class="collapse" data-parent="#Menu2">
+                        <div class="card-body">
+                            
+                        </div>
+                      </div>
+                    </div>
+                  
+                    <div class="card"style="width: 300px">
+                      <div class="card-header">
+                        <a class="collapsed card-link" data-toggle="collapse" href="#PuxaaDois">
+                          Cluster São Paulo - Centro
+                        </a>
+                      </div>
+                      <div id="PuxaaDois" class="collapse" data-parent="#Menu2">
+                        <div class="card-body">
+                          
+                        </div>
+                      </div>
+                    </div>
+                  
+                    <div class="card"style="width: 300px">
+                      <div class="card-header">
+                        <a class="collapsed card-link" data-toggle="collapse" href="#PuxaTres">
+                          Cluster São Paulo - Leste
+                        </a>
+                      </div>
+                      <div id="PuxaaTres" class="collapse" data-parent="#Menu2">
+                        <div class="card-body">
+                          
+                        </div>
+                      </div>
+                    </div>
+                  
+                  </div> 
+              
+                </div>
+              </div>
+            </div>
+          
+        <br>
+        <br>
+        <br>
+        <br>
+        
+      <!-- Footer Bar -->
+      <footer style="bottom:0; left:0; position: static; z-index:-1; width: 100%; height: 2.5rem;">
+        <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="width:50px; height:20px; right:15px; bottom:-30px; position:absolute; background-color:white;">
+            <small style="color:black; position:relative; bottom:10px; right:5px; ">Tema</small>
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" name="themeSelect" id="themeSelect">
+            <a class="dropdown-item" onclick= DefaultTheme() >Default</a>
+            <a class="dropdown-item" onclick= PurpleTheme() >Purple</a>
+            <a class="dropdown-item" onclick= BlackTheme() >Black</a>
+          </div>
+        </div>  
+        
+        <div class="container" style="color:white; position:absolute;">
+          <!--Website 2019 &copy; Marcos Silva (cromasd3v@gmail.com) -->
+        </div>
+        </footer>
+    </body>
+</html>
+      

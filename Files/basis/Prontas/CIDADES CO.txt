@@ -1,0 +1,157 @@
+=== DOURADOS
+
+# DHCP 
+DOSDTCLDM051  - http://gerencia.dos.virtua.com.br/noc/graficos/png/dhcp_179.220.0.51-day.png
+
+#LINK
+
+00608 - http://gerencia.dos.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.0.3_288-day.png
+00611 - http://gerencia.dos.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.0.3_281-day.png
+CONSOLIDADO - http://gerencia.dos.virtua.com.br/nagios_links/noc/graficos/png/DOS_EBT_consolidado-day.png
+
+# CABLES
+
+DOSDTCCMT01 - http://gerencia.dos.virtua.com.br/nagios/noc/graficos/png/modem_179.220.0.11-day.png
+DOSDTCCMT03 - http://gerencia.dos.virtua.com.br/nagios/noc/graficos/png/modem_179.220.0.12-day.png
+DOSDTCCMT04 - http://gerencia.dos.virtua.com.br/nagios/noc/graficos/png/modem_179.220.0.13-day.png
+
+
+# NETFONE - 
+00609 - http://gerencia.dos.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.0.3_287-day.png
+
+00610 - http://gerencia.dos.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.0.3_282-day.png
+
+
+==== PALMAS  
+
+#DHCP  - 
+
+PMJDTCLDM21 - http://gerencia.pmj.virtua.com.br/noc/graficos/png/dhcp_179.155.128.36-day.png
+
+# LINKS
+
+00976 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_155-day.png
+00977 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_158-day.png
+00978 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_74-day.png
+00979 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_71-day.png
+01044 -http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_354-day.png
+01101 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_351-day.png
+CONSOLIDADO - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/PMJ_EBT_consolidado-day.png
+
+# CABLES
+
+PMJDTCCMT01 - http://gerencia.pmj.virtua.com.br/nagios/noc/graficos/png/modem_179.155.128.2-day.png 
+PMJDTCCMT03 - http://gerencia.pmj.virtua.com.br/nagios/noc/graficos/png/modem_179.155.128.4-day.png
+PMJDTCCMT04 - http://gerencia.pmj.virtua.com.br/nagios/noc/graficos/png/modem_179.155.128.5-day.png
+
+
+# NOW -
+
+01437 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_356-day.png
+01438 -http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_355-day.png
+01439 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_352-day.png
+01440 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_353-day.png
+CONSOLIDADO - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/PMJ_ALLIP_consolidado-day.png
+
+# NETFONE -
+
+00860 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_132-day.png
+00861 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_153-day.png
+
+# DIGITAL 
+
+PALMADES-GOIANIA
+CONSOLIDADO - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/PMJ_PMJ-GNA_consolidado-day.png
+01- http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_82-day.png
+02-http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_166-day.png
+03-http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_119-day.png
+04-http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_139-day.png
+
+
+PALMAS - BELÉM 
+CONSOLIDADO - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/PMJ_TVDIG_PMJ-BLM_consolidado-day.png
+01 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_163-day.png
+02 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_164-day.png
+03 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_123-day.png
+04 - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_143-day.png
+
+# SERVIÇOS
+
+GOOGLE - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/PMJ_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/PMJ_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/PMJ_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/PMJ_AKAMAI_consolidado-day.png
+BSOD - http://gerencia.pmj.virtua.com.br/nagios_links/noc/graficos/png/interface_179.155.128.1_77-day.png
+
+
+RONDONOPOLIS
+
+# DHCP - 
+
+ROIDTCLDM51 - http://gerencia.roi.virtua.com.br/nagios/noc/graficos/png/dhcp_179.220.64.25-day.png
+
+# LINKS
+
+00353 - http://gerencia.roi.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.64.3_127-day.png
+00639 - http://gerencia.roi.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.64.3_17-day.png
+00652 -http://gerencia.roi.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.64.2_519-day.png 
+CONSOLIDADO  - http://gerencia.roi.virtua.com.br/nagios_links/noc/graficos/png/ROI_EBT_consolidado-day.png
+
+OI-IP 65-044-9361 -  http://gerencia.roi.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.64.1_10104-day.png
+
+# CABLES
+
+ROIDTCCMT01 - http://gerencia.roi.virtua.com.br/nagios/noc/graficos/png/modem_179.220.64.10-day.png
+ROIDTCCMT02 - http://gerencia.roi.virtua.com.br/nagios/noc/graficos/png/modem_179.220.64.11-day.png
+
+
+# NETFONE - 
+
+00637 - http://gerencia.roi.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.64.2_546-day.png
+00638 - http://gerencia.roi.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.64.3_18-day.png
+
+
+#PEERING - 
+
+RONDONOPOLIS - CURITIBA - http://gerencia.roi.virtua.com.br/nagios_links/noc/graficos/png/interface_179.220.64.1_10201-day.png
+
+
+
+RIO BRANCO
+
+#DHCP - 
+
+RBODTCLDM11 - http://gerencia.rbo.virtua.com.br/noc/graficos/png/dhcp_179.234.64.31-day.png
+
+#LINKS - 
+
+00754 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_37-day.png
+00883 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_36-day.png
+00887 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_55-day.png
+00930 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_192-day.png
+00931 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_193-day.png
+00932 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_194-day.png
+00946 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_56-day.png
+00962 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_191-day.png
+00963 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_57-day.png
+00997 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_58-day.png
+01021 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_53-day.png
+01048 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_52-day.png
+01049 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_185-day.png
+01123 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_189-day.png
+01124 - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_190-day.png
+CONSOLIDADO - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/RBO_EBT_consolidado-day.png
+
+# CABLES
+
+RBODTCCMT02 - http://gerencia.rbo.virtua.com.br/nagios/noc/graficos/png/modem_179.234.64.3-day.png
+RBODTCCMT03 - http://gerencia.rbo.virtua.com.br/nagios/noc/graficos/png/modem_179.234.64.5-day.png
+RBODTCCMT04 - http://gerencia.rbo.virtua.com.br/nagios/noc/graficos/png/modem_179.234.64.6-day.png
+
+# SERVIÇOS
+
+GOOGLE - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/RBO_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/RBO_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/RBO_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/RBO_AKAMAI_consolidado-day.png
+BSOD - http://gerencia.rbo.virtua.com.br/nagios_links/noc/graficos/png/interface_179.234.64.1_54-day.png

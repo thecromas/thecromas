@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Central Nagios - Analítico </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">  
+        <link rel="stylesheet" href="/bootstrap-4.3.1/dist/css/bootstrap.min.css">
+        <link id="themeStylesheet" rel="stylesheet" href="/css/default.css">
+        <script src="/Js/jquery-3.4.1.min.js"></script>
+        <script src="/Js/popper.min.js"></script>
+        <script src="/bootstrap-4.3.1/dist/js/bootstrap.js"></script>
+        <script src="/Files/scipts/themes.js"></script>
+        <title>Central Nagios</title>
+      </head>
+    <body>
+        
+        <div class="jumbotron" style="opacity: 0.9;height:200px;">
+            <h2 style="color:white;">Central Nagios - <small> Painel de Controle</small></h2>
+        </div> 
+        
+        <div id="NORTE">
+        <h5 class="HDNBTT">Painel Norte</h5>
+        <iframe src="Norte.html"></iframe>
+        <iframe src="Nordeste.html"></iframe>
+        <iframe src="rio.html"></iframe>
+
+
+        </div>
+      
+   
+      <!-- Footer Bar -->
+      <footer style="bottom:0; left:0; position: static; z-index:-1; width: 100%; height: 2.5rem;">
+        <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="width:50px; height:20px; right:15px; bottom:-30px; position:absolute; background-color:white;">
+            <small style="color:black; position:relative; bottom:10px; right:5px; ">Tema</small>
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton" name="themeSelect" id="themeSelect">
+            <a class="dropdown-item" onclick= DefaultTheme() >Default</a>
+            <a class="dropdown-item" onclick= PurpleTheme() >Purple</a>
+            <a class="dropdown-item" onclick= BlackTheme() >Black</a>
+          </div>
+        </div>  
+        
+        <div class="container" style="color:white; position:absolute;">
+          <!--Website 2019 &copy; Marcos Silva (cromasd3v@gmail.com) -->
+        </div>
+        </footer>
+    </body>
+</html>
+      

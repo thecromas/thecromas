@@ -1,0 +1,78 @@
+CIDADES: 
+BOITUVA //  SOROCABA //  TATUI  // VOTORANTIM
+
+DHCP
+
+SOCDTCLDM051  - http://gerencia.soc.virtua.com.br/noc/graficos/png/dhcp_189.5.0.41-day.png
+SOCDTCLDM21 - http://gerencia.soc.virtua.com.br/noc/graficos/png/dhcp_189.5.0.58-day.png
+SOCDTCLDM011  - http://gerencia.soc.virtua.com.br/noc/graficos/png/dhcp_189.5.0.50-day.png
+SOCDTCLDM031 - http://gerencia.soc.virtua.com.br/noc/graficos/png/dhcp_189.5.0.63-day.png
+
+VIRTUA 
+
+CONSOLIDADO  - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/SOC_EBT_consolidado-day.png
+03317	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.1_204-day.png
+03383	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_30-day.png
+03405	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.1_11-day.png
+03517	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_22-day.png
+03518	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.1_207-day.png
+03663	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_14-day.png
+03664	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_15-day.png
+03665	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.1_114-day.png
+03904	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_239-day.png
+06147	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.112_225-day.png
+06148	http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.111_408-day.png
+
+DIGITAL 
+SOROCABA - Bre http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_9-day.png
+SOROCABA - IGA http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_39-day.png
+SOROCABA - IGA2 - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_40-day.png
+
+NETFONE 
+02773 - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.1_12-day.png
+
+CMTS
+
+SOCDTCCMT05 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.5-day.png
+SOCDTCCMT06 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.17-day.png
+SOCDTCCMT07 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.7-day.png
+SOCDTCCMT09 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.31-day.png
+SOCDTCCMT10 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.36-day.png
+SOCDTCCMT11 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.37-day.png
+SOCDTCCMT12 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.38-day.png
+SOCDTCCMT13 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.10-day.png
+SOCDTCCMT14 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.14-day.png
+SOCDTCCMT15 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.15-day.png
+SOCDTCCMT16 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.16-day.png
+SOCHACCMT03 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.3-day.png
+SOCHACCMT04 -  http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.4-day.png
+SOCHACCMT18 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.18-day.png
+
+VOMDTCCMT02 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.102-day.png
+VOMDTCCMT03 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/modem_189.5.0.103-day.png
+
+OLT 
+BTVDWBOLT01 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/ont_189.5.3.133-day.png
+BTVSSJOLT01 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/ont_189.5.3.135-day.png
+BTVVDPOLT01 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/ont_189.5.3.134-day.png 
+TTICJCOLT01 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/ont_189.5.3.126-day.png
+TTICLVOLT01 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/ont_189.5.3.130-day.png
+TTILTMOLT01 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/ont_189.5.3.118-day.png
+TTIODAOLT01 - http://gerencia.soc.virtua.com.br/nagios/noc/graficos/png/ont_189.5.3.122-day.png
+
+SERVIÇOS
+GOOGLE - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/SOC_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/SOC_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/SOC_NETFLIX_consolidado-day.png
+BSOD - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_32-day.png
+BSOD PRIMESYS - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.1_13-day.png
+
+GPON
+CONSOLIDADO - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/SOC_GPON_consolidado-day.png
+GPON 01 - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_232-day.png
+GPON 02- http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_233-day.png
+GPON 03 - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_234-day.png
+GPON 04 - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_235-day.png
+GPON MULTICAST - http://gerencia.soc.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.0.2_299-day.png
+
+http://gerencia.soc.virtua.com.br/nagios/noc/painel/index.php

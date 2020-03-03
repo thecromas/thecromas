@@ -1,0 +1,53 @@
+NATAL http://gerencia.ntl.virtua.com.br/nagios/noc/painel/index.php
+
+DHCP 
+
+NTLDTCLDM041  - http://gerencia.ntl.virtua.com.br/noc/graficos/png/dhcp_187.123.78.41-day.png
+NTLDTCLDM054  - http://gerencia.ntl.virtua.com.br/noc/graficos/png/dhcp_187.123.78.49-day.png
+
+LINKS
+
+CONSOLIDADO - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/NTL_EBT_consolidado-day.png
+04799 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_33-day.png
+04801 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_34-day.png
+04802 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_81-day.png
+04803 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_82-day.png
+04804 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_35-day.png
+04902 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.11_80-day.png
+04903 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_108-day.png
+04904 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.11_82-day.png
+04905 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_116-day.png
+
+CABLES
+
+NTLDTCCMT01 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.2-day.png
+NTLDTCCMT02 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.3-day.png
+NTLDTCCMT03 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.4-day.png
+NTLDTCCMT04 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.5-day.png
+NTLDTCCMT05 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.6-day.png
+NTLDTCCMT06 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.7-day.png
+NTLDTCCMT07 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.8-day.png
+NTLDTCCMT08 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.9-day.png
+NTLDTCCMT09 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.100-day.png
+NTLDTCCMT10 - http://gerencia.ntl.virtua.com.br/noc/graficos/png/modem_187.123.78.101-day.png
+
+DIGITAL
+
+NTL - JPA  - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.11_127-day.png 
+NTL - FLA - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.11_86-day.png
+
+NETFONE
+
+http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.11_86-day.png
+
+SERVIÇOS
+
+GOOGLE - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/NTL_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/NTL_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/NTL_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.11_84-day.png
+BSOD 01 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_55-day.png
+BSOD 02 - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_103-day.png
+PRIMESYS - http://gerencia.ntl.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.78.12_103-day.png
+
+

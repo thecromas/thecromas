@@ -1,0 +1,487 @@
+===== SANTOS =======================================================================================
+= http://gerencia.sts.virtua.com.br
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ DHCP
+
+STSDTCLDM081 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/dhcp_189.4.128.86-day.png
+
+STSDTCLDM084 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/dhcp_189.4.128.89-day.png
+
+STSDTCLDM097 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/dhcp_189.4.128.100-day.png
+-----------------------------------------------------------------------------------------------------------------------------------------
+LINKS
+
+CONSOLIDADO - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_EBT_consolidado-day.png
+
+STS-IP-14911 -  http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_184-day.png
+
+STS-IP-14948 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_214-day.png
+
+STS-IP-15156 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_223-day.png
+
+STS-IP-15182 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_210-day.png
+
+STS-IP-15285 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_185-day.png
+
+STS-IP-15356 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_61-day.png
+
+STS-IP-15425 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_208-day.png
+
+STS-IP-15426 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_63-day.png
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+CABLES
+
+STSDTCCMT01 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.11-day.png
+STSDTCCMT02 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.12-day.png
+STSDTCCMT03 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.13-day.png
+STSDTCCMT04 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.14-day.png
+STSDTCCMT05 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.15-day.png
+STSDTCCMT07 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.17-day.png
+STSDTCCMT09 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.34.251.17-day.png
+STSDTCCMT13 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.23-day.png	
+STSDTCCMT14 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.24-day.png
+STSDTCCMT15 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.25-day.png
+STSDTCCMT16 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.26-day.png
+STSDTCCMT17 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/modem_189.4.128.27-day.png
+STSDTCCMT18 - 	
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+NETFONE
+00510 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_86-day.png
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NOW
+
+ALL 
+CONSOLIDADO - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_ALLIP_consolidado-day.png
+15508 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_224-day.png
+15509 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_209-day.png
+
+
+SANTOS
+CONSOLIDADO - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_NOW_consolidado-day.png
+15466 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_211-day.png
+15467 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_212-day.png
+15468 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_215-day.png
+15469 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_212-day.png
+
+INTERLIGADAS 
+CONSOLIDADO - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_INTERLIGADAS_consolidado-day.png
+BERTIOGA - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_217-day.png
+GJA - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_219-day.png
+SVE - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_221-day.png
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+SERVIÇOS
+GOOGLE - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_FACEBOOK_consolidado-day.png
+AKAMAI - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_AKAMAI_consolidado-day.png
+PEERING - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_PEERING-STS-SVE_consolidado-day.png
+NETFLIX - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_NETFLIX_consolidado-day.png
+PRIMESYS - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_133-day.png
+BSOD - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.5_87-day.png
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GPON
+CONSOLIDADO - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_GPON_consolidado-day.png
+TRUNK GPON 01 -  http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_310-day.png
+TRUNK GPON 02 -  http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_312-day.png
+MULTICAST 01 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_278-day.png
+=-----------------------------------------------------------------------------------------------------------------------------------------
+OLTS 
+
+CARAGUATATUBA
+CONSOLIDADO  - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_CGT-OLT_consolidado-day.png
+CGTCNTOLT03-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_339-day.png
+CGTCNTOLT03-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_340-day.png
+CGTJDAOLT04-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_265-day.png
+CGTJDAOLT04-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_266-day.png
+CGTMMSOLT02-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_232-day.png
+CGTMMSOLT02-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_233-day.png
+CGTMSGGOLT05-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_352-day.png
+CGTMSGGOLT05-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_353-day.png
+CGTPDPOLT01-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_341-day.png
+CGTPDPOLT01-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_342-day.png
+
+INE
+CONSOLIDADO  - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_INE-OLT_consolidado-day.png
+INEGVAOLT03-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_274-day.png
+INEGVAOLT03-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_275-day.png
+INEJSPOLT01-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_343-day.png
+INEJSPOLT01-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_347-day.png
+INEVSPOLT02-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_301-day.png
+INEVSPOLT02-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_319-day.png
+
+MONGUAGUA 
+CONSOLIDADO - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_MGG-OLT_consolidado-day.png
+MGGBRMOLT01-V4	 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_338-day.png
+MGGBRMOLT01-V6	 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_309-day.png
+MGGJPGOLT02-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_230-day.png
+MGGJPGOLT02-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_231-day.png
+MGGVOPOLT03-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_284-day.png
+MGGVOPOLT03-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_285-day.png
+
+PERUIBE
+CONSOLIDADO - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_PUE-OLT_consolidado-day.png
+PUECTOOLT01-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_242-day.png
+PUECTOOLT01-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_244-day.png
+PUEPQOOLT02-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_249-day.png
+PUEPQOOLT02-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_250-day.png
+
+SST
+CONSOLIDADO - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_SST-OLT_consolidado-day.png
+SSTCNOOLT04-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_314-day.png
+SSTCNOOLT04-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_315-day.png
+SSTPEAOLT03-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_286-day.png
+SSTPEAOLT03-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_253-day.png
+SSTPOAOLT01-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_324-day.png
+SSTPOAOLT01-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_325-day.png
+SSTPPSOLT02-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_350-day.png
+SSTPPSOLT02-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_351-day.png
+
+UTB  
+CONSOLIDADO - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/STS_UTB-OLT_consolidado-day.png
+UTBITGOLT05-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_332-day.png
+UTBITGOLT05-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_333-day.png
+UTBITMOLT01-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_334-day.png
+UTBITMOLT01-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_335-day.png
+UTBUMUOLT04-V4 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_320-day.png
+UTBUMUOLT04-V6 - http://gerencia.sts.virtua.com.br/nagios_links/noc/graficos/png/interface_189.4.128.101_321-day.png
+
+
+ONT
+CGTCNTOLT03 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.50-day.png
+CGTJDAOLT04 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.54-day.png
+CGTMMSOLT02 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.46-day.png
+CGTMSGGOLT05 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.58-day.png
+CGTPDPOLT01 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.42-day.png
+INEGVAOLT03 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.26-day.png
+INEJSPOLT01 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.18-day.png
+INEVSPOLT02 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.22-day.png
+MGGBRMOLT01 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.2-day.png
+MGGJGPOLT2 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.6-day.png 
+MGGVOPOLT03 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.62-day.png
+PUECTOOLT01 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.10-day.png
+PUEPQOOLT02 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.14-day.png
+SSTCNOOLT04 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.94-day.png
+SSTPEAOLT03 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.38-day.png
+SSTPOAOLT01 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.30-day.png
+SSTPPSOLT02 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.34-day.png
+UTBBRBOLT03 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.74-day.png
+UTBHMMOLT07 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.90-day.png
+UTBITGOLT05 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.82-day.png
+UTBITMOLT01 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.66-day.png
+UTBPGROLT06 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.86-day.png
+UTBPRQOLT02 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.70-day.png
+UTBUMUOLT04 - http://gerencia.sts.virtua.com.br/nagios/noc/graficos/png/ont_189.34.152.78-day.png
+
+
+======================================================================================================================================================================
+============ APARECIDA ================================================================================================================================================
+
+DHCP 
+ADADTCLDM51 - http://gerencia.ada.virtua.com.br/noc/graficos/png/dhcp_187.123.158.23-day.png
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LINKS
+CONSOLIDADO - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/ADA_EBT_consolidado-day.png
+00133 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.120_140-day.png
+00134 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.110_9-day.png
+00141 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.110_24-day.png
+00143 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.120_111-day.png
+00144 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.120_112-day.png
+00145 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.120_201-day.png
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CABLES 
+ADADTCCMT01 - http://gerencia.ada.virtua.com.br/nagios/noc/graficos/png/modem_187.123.158.2-day.png
+ADADTCCMT02 - http://gerencia.ada.virtua.com.br/nagios/noc/graficos/png/modem_187.123.158.4-day.png
+ADADTCCMT03 - http://gerencia.ada.virtua.com.br/nagios/noc/graficos/png/modem_187.123.158.5-day.png
+ADADTCCMT04 - http://gerencia.ada.virtua.com.br/nagios/noc/graficos/png/modem_187.123.158.7-day.png
+ADADTCCMT05 - http://gerencia.ada.virtua.com.br/nagios/noc/graficos/png/modem_187.123.158.8-day.png
+ADADTCCMT06 -  http://gerencia.ada.virtua.com.br/nagios/noc/graficos/png/modem_187.123.158.9-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DIGITAL 
+APARECIDA - SÃO JOSÉ DOS CAMPOS  -
+http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.110_8-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NETFONE
+00117 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.120_161-day.png
+00118 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.110_158-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SERVIÇOS
+GOOGLE - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/ADA_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/ADA_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/ADA_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/ADA_AKAMAI_consolidado-day.png
+BSOD 1 -  http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.120_162-day.png
+BSOD 2 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.120_163-day.png
+PRIMESYS 1 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.120_164-day.png
+PRIMESYS 2 - http://gerencia.ada.virtua.com.br/nagios_links/noc/graficos/png/interface_187.123.158.120_165-day.png
+======================================================================================================================================================================
+============ SÃO VICENTE =============================================================================================================================================
+DHCP
+SVEDTCLDM011 - http://gerencia.sve.virtua.com.br/noc/graficos/png/dhcp_187.22.0.61-day.png
+SVEDTCLDM022 - http://gerencia.sve.virtua.com.br/noc/graficos/png/dhcp_187.22.0.67-day.png
+SVEDTCLDM023 - http://gerencia.sve.virtua.com.br/noc/graficos/png/dhcp_187.22.0.68-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LINKS
+CONSOLIDADO - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/SVE_EBT_consolidado-day.png
+00252 - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/interface_187.22.0.140_21-day.png
+00253 - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/interface_187.22.0.140_22-day.png
+00279 - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/interface_187.22.0.139_187-day.png
+00280 - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/interface_187.22.0.139_188-day.png
+00281 - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/interface_187.22.0.140_18-day.png
+00297 - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/interface_187.22.0.139_186-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CABLES
+
+PRAIA GRANDE
+PGEDTCCMT02 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.122-day.png
+PGEDTCCMT03 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.123-day.png
+PGEDTCCMT04 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.121-day.png
+PGEDTCCMT05 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.125-day.png
+PGEDTCCMT06 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.126-day.png
+PGEDTCCMT07 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.127-day.png
+
+SÃO VICENTE
+SVEDTCCMT04 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.166-day.png
+SVEDTCCMT05 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.161-day.png
+SVEDTCCMT06 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.162-day.png
+SVEDTCCMT07 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.163-day.png
+SVEDTCCMT08 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.164-day.png
+
+CUBATÃO 
+CAODTCCMT01 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.181-day.png
+CAODTCCMT02 - http://gerencia.sve.virtua.com.br/noc/graficos/png/modem_187.22.0.182-day.png
+
+ABC
+ABCDTCCMT02 - http://gerencia.sve.virtua.com.br/nagios/noc/graficos/png/modem_187.22.0.4-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NETFONE
+00067 - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/interface_187.22.0.139_437-day.png
+00068 - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/interface_187.22.0.140_271-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SERVIÇOS 
+GOOGLE - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/SVE_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/SVE_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/SVE_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/SVE_AKAMAI_consolidado-day.png
+00200 BSOD - http://gerencia.sve.virtua.com.br/nagios_links/noc/graficos/png/interface_187.22.0.139_438-day.png
+======================================================================================================================================================================
+============ TAUBATÉ =============================================================================================================================================
+DHCP 
+TTEDTCLDM41 - http://gerencia.tte.virtua.com.br/noc/graficos/png/dhcp_187.2.216.34-day.png
+TTEDTCLDM52 - http://gerencia.tte.virtua.com.br/noc/graficos/png/dhcp_187.2.216.40-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+LINKS
+CONSOLIDADO - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/TTE_EBT_consolidado-day.png
+00226 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_59-day.png
+00246 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_184-day.png
+00292 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_63-day.png
+00425 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_64-day.png
+00542 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_64-day.png
+00546 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_65-day.png
+00574 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_52-day.png
+00575 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_180-day.png
+00658 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_180-day.png
+00671 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_65-day.png
+00672 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_77-day.png
+01328 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_186-day.png
+01329 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_129-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CABLES
+TTEDTCCMT01 - http://gerencia.tte.virtua.com.br/noc/graficos/png/modem_187.2.216.2-day.png
+TTEDTCCMT03 - http://gerencia.tte.virtua.com.br/noc/graficos/png/modem_187.2.216.5-day.png
+TTEDTCCMT04 - http://gerencia.tte.virtua.com.br/noc/graficos/png/modem_187.2.216.7-day.png
+TTEDTCCMT05 - http://gerencia.tte.virtua.com.br/noc/graficos/png/modem_187.2.216.9-day.png
+TTEDTCCMT06 - http://gerencia.tte.virtua.com.br/noc/graficos/png/modem_187.2.216.3-day.png
+TTEDTCCMT07 - http://gerencia.tte.virtua.com.br/noc/graficos/png/modem_187.2.216.12-day.png
+CPVDTCCMT01 - http://gerencia.tte.virtua.com.br/noc/graficos/png/modem_187.2.216.8-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NOW 
+CONSOLIDADO - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/TTE_ALLIP_consolidado-day.png
+01248 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_179-day.png
+01249 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_181-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+NETFONE
+
+00232 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.110_58-day.png
+00161 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_76-day.png
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+GPON 
+TRUNK GPON 01 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_173-day.png
+TRUNK GPON 02 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_17-day.png
+TRUNK MULTICAST - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_344-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OLT'S 
+TREMEMBÉ 
+CONSOLIDADO - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/TTE_TMB-OLT_consolidado-day.png
+TMBJBJOLT01-V4 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_333-day.png
+TMBJBJOLT01-V6 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_334-day.png
+TMBSVPOLT02-V4 -http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_335-day.png
+TMBSVPOLT02-V6 - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_336-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ONT
+TMBJBJOLT01 - http://gerencia.tte.virtua.com.br/nagios/noc/graficos/png/ont_201.62.118.2-day.png
+TMBSVPOLT02 - http://gerencia.tte.virtua.com.br/nagios/noc/graficos/png/ont_201.62.118.166-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SERVIÇOS
+GOOGLE - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/TTE_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/TTE_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/TTE_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/TTE_AKAMAI_consolidado-day.png
+BSOD - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_229-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INTERLIGAÇÕES 
+TAUBATÉ - CAÇAPAVA - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_184-day.png
+TAUBATÉ - DUTRA - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_28-day.png
+TAUBATÉ - APARECIDA - http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_183-day.png
+TAUBATÉ - PINDAMONHANGABA -  http://gerencia.tte.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.216.120_27-day.png
+======================================================================================================================================================================
+============ GUARUJÁ =============================================================================================================================================
+DHCP 
+BERTIOGA
+BERDTCLDM053 - http://gerencia.gja.virtua.com.br/nagios/noc/graficos/png/dhcp_191.184.64.14-day.png
+GUARUJÁ
+GJADTCLDM011 - http://gerencia.gja.virtua.com.br/nagios/noc/graficos/png/dhcp_187.21.64.61-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+LINKS
+BERTIOGA
+CONSOLIDADO - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/BERT_EBT_consolidado-day.png
+00118 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.1_23-day.png
+00119 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.1_24-day.png
+00123 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.1_25-day.png
+00124 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.1_26-day.png
+00128 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.1_9-day.png
+00129 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.1_10-day.png
+GUARUJÁ
+CONSOLIDADO - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/GJA_EBT_consolidado-day.png
+00242 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.103_68-day.png
+00276 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1009-day.png
+00335 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.103_76-day.png
+00336 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.103_77-day.png
+00356 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.103_202-day.png
+00359 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.102_18-day.png
+00389 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.102_82-day.png
+00390 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.102_83-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+CABLES
+BERTIOGA
+BERTDTCCMT02 - http://gerencia.gja.virtua.com.br/nagios/noc/graficos/png/modem_191.184.64.12-day.png
+GUARUJÁ
+GJADTCCMT01 - http://gerencia.gja.virtua.com.br/nagios/noc/graficos/png/modem_187.21.64.2-day.png
+GJADTCCMT02 - http://gerencia.gja.virtua.com.br/nagios/noc/graficos/png/modem_187.21.64.3-day.png
+GJADTCCMT03 - http://gerencia.gja.virtua.com.br/nagios/noc/graficos/png/modem_187.21.64.4-day.png
+GJADTCCMT04 - http://gerencia.gja.virtua.com.br/nagios/noc/graficos/png/modem_187.21.64.5-day.png
+GJADTCCMT05 - http://gerencia.gja.virtua.com.br/nagios/noc/graficos/png/modem_187.21.64.6-day.png
+GJADTCCMT06 - http://gerencia.gja.virtua.com.br/nagios/noc/graficos/png/modem_187.21.64.7-day.png
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+NOW
+BERTIOGA - SANTOS - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.1_143-day.png
+GUARUJÁ- SANTOS - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.103_272-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+NETFONE 
+BERTIOGA
+00116 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.1_20-day.png
+00117 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.2_35-day.png
+GUARUJÁ
+00344 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.103_84-day.png
+00243 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1024-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+SERVIÇOS 
+GOOGLE - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/gja-consolidado_google-day.png
+FACEBOOK - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/GJA_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/GJA_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.103_18-day.png
+00257 BSOD - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1021-day.png
+PRIMESYS - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.103_30-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+INTERLIGAÇÕES
+BERTIOGA - SANTOS
+http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_191.184.64.1_3-day.png
+GUARUJÁ - SANTOS
+CONSOLIDADO - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/gja-sts-day.png
+00 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1005-day.png
+01 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1006-day.png
+02 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1007-day.png
+03 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1012-day.png
+04 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1013-day.png
+05 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1014-day.png
+06 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1015-day.png
+07 - http://gerencia.gja.virtua.com.br/nagios_links/noc/graficos/png/interface_187.21.64.101_1016-day.png
+======================================================================================================================================================================
+======= SÃO JOSÉ DOS CAMPOS ==========================================================================================================================================
+DHCP 
+SJCDTCLDM071 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/dhcp_201.75.168.73-day.png
+SJCDTCLDM077 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/dhcp_201.75.168.79-day.png
+SJCDTCLDM082 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/dhcp_201.75.168.84-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+LINKS
+CONSOLIDADO - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/SJC_EBT_consolidado-day.png
+00961-BSOD-1 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 00961-BSOD-1-day.png
+01042 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.100_ 241-day.png
+01043 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01043-day.png
+01052 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01052-day.png
+01055 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01055-day.png
+01107 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01107-day.png
+01274 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01274-day.png
+01304 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01304-day.png
+01323 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01323-day.png
+01324 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01324-day.png
+01331 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01331-day.png
+01492 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01492-day.png
+01493 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01493-day.png
+01494 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01494-day.png
+01495 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface__ 01495-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+CABLES
+
+JACAREI
+JCIDTCCMT01 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.18-day.png
+JCIDTCCMT03 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.9-day.png
+JCIDTCCMT04 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.25-day.png
+
+SÃO JOSÉ DOS CAMPOS
+SJCDTCCMT03 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.4-day.png
+SJCDTCCMT04 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.6-day.png
+SJCDTCCMT10 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.27-day.png
+SJCDTCCMT11 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.28-day.png
+SJCDTCCMT12 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.29-day.png
+SJCDTCCMT13 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.22-day.png
+SJCDTCCMT14 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.114-day.png
+SJCDTCCMT15 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.115-day.png
+SJCHZSCMT01 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.20-day.png
+SJCHZSCMT02 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.116-day.png
+SJCHZSCMT03 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.3-day.png
+SJCHZSCMT04 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.26-day.png
+SJCHZSCMT05 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.5-day.png
+SJCHZSCMT06 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.8-day.png
+SJCHZSCMT07 - http://gerencia.sjc.virtua.com.br/nagios/noc/graficos/png/modem_201.75.168.117-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+DIGITAL
+SÃO JOSÉ DOS CAMPOS - TAUBATÉ
+CONSOLIDADO - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/SJC_TVDIG_SJC-TTE_consolidado-day.png
+01 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_122-day.png
+02 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_123-day.png
+03 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_120-day.png
+04 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_121-day.png
+05 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_205-day.png
+06 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_207-day.png
+07 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_208-day.png
+08 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_209-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+NETFONE 
+00528 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.100_240-day.png
+00634 - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_166-day.png
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------]
+ SERVIÇOS
+GOOGLE - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/SJC_GOOGLE_consolidado-day.png
+FACEBOOK - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/SJC_FACEBOOK_consolidado-day.png
+NETFLIX - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/SJC_NETFLIX_consolidado-day.png
+AKAMAI - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/SJC_AKAMAI_consolidado-day.png
+BSOD - http://gerencia.sjc.virtua.com.br/nagios_links/noc/graficos/png/interface_201.75.168.110_87-day.png
+PRIMESYS - 	 
+======================================================================================================================================================================
+======= PINDAMONHANGABA ==========================================================================================================================================

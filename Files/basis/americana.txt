@@ -1,0 +1,114 @@
+AMR
+
+[DHCP]
+
+201.55.232.73 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/dhcp_201.55.232.73-day.png
+201.55.232.76 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/dhcp_201.55.232.76-day.png
+201.55.232.79 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/dhcp_201.55.232.79-day.png
+201.55.232.80 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/dhcp_201.55.232.80-day.png
+
+[EBT]
+CONSOLIDADO - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/AMR_EBT_consolidado-day.png
+00253 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.140_13-day.png
+00430 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.140_14-day.png
+00466 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.110_88day.png
+00489 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.110_11day.png
+00510 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.110_7day.png
+00511 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.110_8day.png
+00512 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.110_9day.png
+00550 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.110_10day.png
+00551 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.110_99day.png
+00552 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.140_8day.png
+00553 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.140_11day.png
+00554 - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.140_18day.png
+
+
+
+[NEFTONE]
+Consolidado - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.110_35-day.png
+Bkp - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.110_35-day.png
+
+
+[SERVIÇOS]
+
+Google - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/AMR_GOOGLE_consolidado-day.png
+Facebook - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/AMR_FACEBOOK_consolidado-day.png
+Netflix - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/AMR_NETFLIX_consolidado-day.png
+Akamai - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/AMR_AKAMAI_consolidado-day.png
+
+Peering  Americana/Capminas - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/AMR_EBT_consolidado-day.png
+DIGITAL Americana/PAA - http://gerencia.amr.virtua.com.br/nagios_links/noc/graficos/png/interface_201.55.232.140_179-day.png
+
+
+Subclusters - 
+
+[AMR]
+(Americana)
+Cables:
+AMRDTCCMT01 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.101-day.png
+AMRDTCCMT02 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.102-day.png
+AMRDTCCMT03 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.151-day.png
+AMRDTCCMT05 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.159-day.png
+
+(Santa Bárbara do Oeste)
+Cables:
+STBDTCCMT01 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.164-day.png
+STBDTCCMT02 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.163-day.png
+STBDTCCMT03 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.105-day.png
+
+(Sumaré)
+Cables:
+SUMDTCCMT02 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.120-day.png
+SUMDTCCMT03 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.161-day.png
+
+(Nova Odessa)
+Cables:
+NDSDTCCMT01 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.180-day.png
+
+[Limeira]
+(Araras)
+AASDTCCMT01 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.108-day.png
+AASDTCCMT02 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.106-day.png
+AASDTCCMT04 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.170-day.png
+
+[(Limeira)]
+LRADTCCMT02 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.6-day.png
+LRADTCCMT05 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.5-day.png
+
+(Rio Claro)
+RCODTCCMT01 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.107-day.png 
+RCODTCCMT03 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.122-day.png
+RCODTCCMT04 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.167-day.png
+RCODTCCMT05 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.169-day.png
+
+Interligação RCO-LRA  - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/interface_201.55.232.166_25-day.png
+Interligação L3-RCO-PAA - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/interface_201.55.232.166_26-day.png
+
+
+[Mogimirim]
+(Mogi Guaçu)
+MGUDTCCMT01 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.52-day.png
+MGUDTCCMT02 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.53-day.png
+MGUDTCCMT03 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.50-day.png
+MGUDTCCMT04 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.51-day.png
+MGUDTCCMT05 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.54-day.png
+
+[(Mogi Mirim)]
+MMMDTCCMT01 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.172-day.png
+MMMDTCCMT02 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.34-day.png
+MMMDTCCMT03 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.35-day.png
+MMMDTCCMT04 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.62.120.36-day.png
+
+Link
+Limeira-Mogimirim 1 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/interface_201.55.232.175_6-day.png
+Limeira-Mogimirim 2 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/interface_201.55.232.175_146-day.png
+Limeira-Mogimirim 3 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/interface_201.55.232.175_253-day.png
+Campinas-Mogimirim -  http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/interface_201.55.232.175_145-day.png
+Mogimirim-Campinas - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/interface_201.55.232.175_256-day.png
+
+
+(Hortolandia)
+HORTDTCCMT01 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.123-day.png
+HORTDTCCMT02 - http://gerencia.amr.virtua.com.br/nagios/noc/graficos/png/modem_201.55.232.121-day.png
+
+

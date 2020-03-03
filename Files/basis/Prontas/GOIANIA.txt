@@ -1,0 +1,94 @@
+===== Goiânia
+=======================================================================================
+=http://gerencia.goi.virtua.com.br/
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+= DHCP
+= GOIDTCLDM21 - http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/dhcp_189.5.128.106-day.png
+=GOIDTCLDM23 -
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/dhcp_189.5.128.108-day.png
+= GOIDTCLDM32 -
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/dhcp_189.5.128.115-day.png
+= GOIDTCLDM34 -
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/dhcp_189.5.128.117-day.png
+
+=-----------------------------------------------------------------------------------------------------------------------------------------
+=LINKS
+=CONSOLIDADO - 
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/GOI_EBT_consolidado-day.png
+=GNA-IP-04578 -  
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.128.20_303-day.png
+=GNA-IP-04579 - 
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.128.10_423-day.png
+
+=---------------------------------------------------------------------------------------------------------------------------------------------------------
+=CABLES
+
+= GOIDTCCMT01 -
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.15-day.png
+= GOIDTCCMT02 -
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.18-day.png
+= GOIDTCCMT03 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.5-day.png
+= GOIDTCCMT04 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.9-day.png
+= GOIDTCCMT05 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.19-day.png
+= GOIDTCCMT06 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.22-day.png
+= GOIDTCCMT07 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.23-day.png
+= GOIDTCCMT08 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.28-day.png
+= GOIDTCCMT13 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.33-day.png
+= GOIDTCCMT14 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.34-day.png
+= GOIDTCCMT15 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.58-day.png
+= GOIHZNCMT01 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.6-day.png
+= GOIHZNCMT03 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.7-day.png
+= GOIHZNCMT04 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.31-day.png
+= GOIHZNCMT05 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.30-day.png
+= GOIHZNCMT06 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.29-day.png
+= GOIHZNCMT07 - 
+http://gerencia.goi.virtua.com.br/nagios/noc/graficos/png/modem_189.5.128.32-day.png
+
+
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=NETFONE
+=01353 -
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.128.10_321-day.png
+
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=SERVIÇOS
+=GNA IPV6 - http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/GOI_IPV6_consolidado-day.png
+=GOOGLE - http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/GOI_GOOGLE_consolidado-day.png
+=FACEBOOK - 
+hhttp://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/GOI_FACEBOOK_consolidado-day.png
+=TVDIG_GOI-BSB - 
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/GOI_TVDIG_GOI-BSB_consolidado-day.png
+=TVDIG_GOI-CBA - 
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/GOI_TVDIG_GOI-CBA_consolidado-day.png
+=TVDIG_GOI-PMJ -
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/GOI_TVDIG_GOI_PMJ_consolidado-day.png
+=NETFLIX - 
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/GOI_NETFLIX_consolidado-day.png
+=PTT-ATM -
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.128.10_271-day.png
+=PTT-EAQ -
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.128.20_49-day.png
+=PEERING-GOI-ANS -
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.128.10_261-day.png
+=AKAMAI - 
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/GOI_AKAMAI_consolidado-day.png
+=BSOD-01906-1 -
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.128.20_8-day.png
+=BSOD-PRIMESYS-1 (GNA-VE1-WO-DPV001) -
+http://gerencia.goi.virtua.com.br/nagios_links/noc/graficos/png/interface_189.5.128.20_7-day.png
+
+=-------------------------------------------------------------------------------------------------------------------------------------------------------

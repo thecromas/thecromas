@@ -1,0 +1,242 @@
+===== SAO CARLOS
+=======================================================================================
+= http://gerencia.scl.virtua.com.br/
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+= DHCP
+= SCLDTCLDM011 -
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.80.20-day.png
+
+= SCLDTCLDM021 -
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.80.40-day.png
+
+= SCLDTCLDM023 -
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.80.42-day.png
+
+= SCLDTCLDM051 -
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.80.60-day.png
+
+=-----------------------------------------------------------------------------------------------------------------------------------------
+=LINKS
+=CONSOLIDADO - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/SCL_EBT_consolidado-day.png
+=SCL-IP-00662 -  
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_94-day.png
+
+=SCL-IP-00663 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_95-day.png
+
+=SCL-IP-00736 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_228-day.png
+
+=SCL-IP-00737 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_229-day.png
+
+=SCL-IP-00738 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_230-day.png
+
+=SCL-IP-00739 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_231-day.png
+
+=SCL-IP-00740 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_232-day.png
+
+=SCL-IP-00750 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.80_224-day.png
+
+
+=SCL-IP-00751 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.80_225-day.png
+
+=SCL-IP-00752 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.80_226-day.png
+=---------------------------------------------------------------------------------------------------------------------------------------------------------
+=CABLES
+=SCLDTCCMT01 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.2-day.png
+=SCLDTCCMT02 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.3-day.png
+=SCLDTCCMT03 - http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.4-day.png
+=SCLDTCCMT04 - http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.6-day.png
+=SCLDTCCMT05 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.7-day.png
+=SCLDTCCMT06 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.8-day.png
+=SCLDTCCMT08 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.13-day.png
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=NETFONE
+=00351 - http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_14-day.png
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=SERVIÇOS
+=GOOGLE - http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/SCL_GOOGLE_consolidado-day.png
+=FACEBOOK - http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/SCL_FACEBOOK_consolidado-day.png
+=AKAMAI - http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/SCL_AKAMAI_consolidado-day.png
+=NETFLIX - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/SCL_NETFLIX_consolidado-day.png
+=SCL IPV6 - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/SCL_IPV6_consolidado-day.png
+=PRIMESYS - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_143-day.png
+=BSOD -
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.90_15-day.png
+=DIGITAL - 
+http://gerencia.scl.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.80.80_144-day.png 
+
+
+
+
+
+
+
+===== SAO JOSE RIO PRETO
+=======================================================================================
+= http://gerencia.srr.virtua.com.br/
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+= DHCP
+= SRRDTCLDM41 -http://gerencia.srr.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.32.32-day.png
+
+=SRRDTCLDM44 -http://gerencia.srr.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.32.35-day.png
+
+= SRRDTCLDM51 -
+http://gerencia.srr.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.32.37-day.png
+
+= SRRDTCLDM53 -
+http://gerencia.srr.virtua.com.br/nagios/noc/graficos/png/dhcp_189.7.32.39-day.png
+=-----------------------------------------------------------------------------------------------------------------------------------------
+=LINKS
+=CONSOLIDADO - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/SRR_EBT_consolidado-day.png
+=SRR-IP-01149 -  
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.100_477-day.png
+
+=SRR-IP-01161 - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.90_113-day.png
+
+=SRR-IP-01303 - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.80_230-day.png
+
+=SRR-IP-01304 - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.90_155-day.png
+
+=SRR-IP-01344 - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.100_479-day.png
+
+=SRR-IP-01345 - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.100_69-day.png
+
+=---------------------------------------------------------------------------------------------------------------------------------------------------------
+=CABLES
+=SCLDTCCMT01 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.2-day.png
+=SCLDTCCMT02 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.3-day.png
+=SCLDTCCMT03 - http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.4-day.png
+=SCLDTCCMT04 - http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.6-day.png
+=SCLDTCCMT05 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.7-day.png
+=SCLDTCCMT06 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.8-day.png
+=SCLDTCCMT08 - 
+http://gerencia.scl.virtua.com.br/nagios/noc/graficos/png/modem_189.7.80.13-day.png
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=NETFONE
+=00432 - http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.100_309-day.png
+=------------------------------------------------------------------------------------------------------------------------------------------------------------
+=SERVIÇOS
+=NOW - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/SRR_ALLIP_consolidado-day.png
+=GOOGLE - http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/SRR_GOOGLE_consolidado-day.png
+=FACEBOOK - http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/SRR_FACEBOOK_consolidado-day.png
+=AKAMAI - http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/SRR_AKAMAI_consolidado-day.png
+=PTT-ATM - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/SRR_PTT-ATM_consolidado-day.png
+=NETFLIX - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/SRR_NETFLIX_consolidado-day.png
+=SRR IPV6 - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/SRR_IPV6_consolidado-day.png
+=PRIMESYS - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.90_261-day.png
+=BSOD -
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.80_311-day.png
+=DIGITAL - 
+http://gerencia.srr.virtua.com.br/nagios_links/noc/graficos/png/interface_189.7.32.80_292-day.png
+=
+=
+=
+=
+=---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+========================================================================================================================================================
+==== PRESIDENTE PRUDENTE ==============================================================================================================================
+=DHCP 
+= PPEDTCLDM11 - http://gerencia.ppe.virtua.com.br/nagios/noc/graficos/png/dhcp_187.2.150.51-day.png
+=---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+= LINK
+= CONSOLIDADO - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/PPE_VIRTUA_consolidado-day.png
+= 00573 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.102_512-day.png
+= 00574 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.103_154-day.png
+= 00660 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.103_155-day.png
+= 00661 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.103_156-day.png
+= 00662 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.102_516-day.png
+= 00663 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.102_517-day.png
+= 00715 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.103_157-day.png
+= 00716 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.103_158-day.png
+= 00722 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.103_159-day.png
+=---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+= CABLES
+= PPEDTCCMT03 - http://gerencia.ppe.virtua.com.br/nagios/noc/graficos/png/modem_187.2.150.3-day.png
+= PPEDTCCMT04 - http://gerencia.ppe.virtua.com.br/nagios/noc/graficos/png/modem_187.2.150.4-day.png
+= PPEDTCCMT05 - http://gerencia.ppe.virtua.com.br/nagios/noc/graficos/png/modem_187.2.150.5-day.png
+=--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+= DIGITAL
+= PRESIDENTE PRUDENTE -  MARÍLIA
+= CONSOLIDADO - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/PPE_TVDIG_PPE-MIA_consolidado-day.png
+= 01 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.102_522-day.png
+= 02 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.102_523-day.png
+= 03 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.102_528-day.png
+= 04 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.102_529-day.png
+=----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+= NETFONE 
+= 00528 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.102_520-day.png
+= 00529 - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.103_178-day.png
+=-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+= SERVIÇOS
+= FACEBOOK - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/PPE_FACEBOOK_consolidado-day.png
+= BSOD - http://gerencia.ppe.virtua.com.br/nagios_links/noc/graficos/png/interface_187.2.150.102_518-day.png
+=====================================================================================================================================================================
+===== SERTÃOZINHO =================================================================================================================================================
+= http://gerencia.stz.virtua.com.br/nagios/noc/painel/index.php
+=
+=------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+=  DHCP 
+= STZDTCLDM051 - http://gerencia.stz.virtua.com.br/nagios/noc/graficos/png/dhcp_189.39.152.44-day.png
+= STZDTCLDM063 - http://gerencia.stz.virtua.com.br/nagios/noc/graficos/png/dhcp_189.39.152.56-day.png
+=------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+= LINKS
+= CONSOLIDADO - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/STZ_EBT_consolidado-day.png
+= 00328 - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.103_247-day.png
+= 00334 - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.101_258-day.png
+= 00335 - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.103_248-day.png
+= 00365 - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.101_259-day.png
+= 00366 - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.103_249-day.png
+= 00368 - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.101_34-day.png
+= 00371 - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.103_13-day.png
+=------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+= CABLES
+= STZDTCCMT01 - http://gerencia.stz.virtua.com.br/nagios/noc/graficos/png/modem_189.39.152.2-day.png
+= STZDTCCMT02 - http://gerencia.stz.virtua.com.br/nagios/noc/graficos/png/modem_189.39.152.2-day.png
+= STZDTCCMT04 - http://gerencia.stz.virtua.com.br/nagios/noc/graficos/png/modem_189.39.152.8-day.png
+= STZDTCCMT04 -http://gerencia.stz.virtua.com.br/nagios/noc/graficos/png/modem_189.39.152.8-day.png
+=-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+= NETFONE
+= 00116 - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.103_246-day.png
+= 00117 - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.101_256-day.png
+=-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+= SERVIÇOS
+= GOOGLE - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/STZ_GOOGLE_consolidado-day.png
+= FACEBOOK - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/STZ_FACEBOOK_consolidado-day.png
+= NETFLIX - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/STZ_NETFLIX_consolidado-day.png
+= AKAMAI - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/STZ_AKAMAI_consolidado-day.png
+= 00290 BSOD - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.101_324-day.png
+= PRIMESYS - http://gerencia.stz.virtua.com.br/nagios_links/noc/graficos/png/interface_189.39.152.101_325-day.png
+=------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+======================================================================================================================================================================
