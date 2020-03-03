@@ -10,7 +10,7 @@ html, body {
 .left {
   background-color: white;
   position: fixed;
-  width: 750px;
+  width: 75%;
   padding-right: 350px;
   padding-left: 10px;
   top: 50px;
