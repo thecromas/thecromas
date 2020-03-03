@@ -17,9 +17,7 @@ html, body {
 }
 .right {
   height: 100%;
-  width: 480px;
-  border: 10px dashed lightblue;
-  border-radius: 5px;
+  width: 350px;
   background-color: lightgray;
   right: 0;
   position: fixed;
