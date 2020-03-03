@@ -8,18 +8,31 @@
         <script src="/Js/jquery-3.4.1.min.js"></script>
         <script src="/Js/popper.min.js"></script>
         <script src="/sources/js/bootstrap.js"></script>
+        <link rel="stylesheet" href="/sources/styles/stylesheet.css">
       </head>
 
       <body>
+        <header id="header">
 
-        <header class="navbar navbar-expand navbar-dark flex-column flex-md-row bd-navbar">
-          <a href="favicon.png"></a>
         </header>
 
-        <br>
-        <br>
-        <br>
+        <div class="right">
+              <div id="twitch-embed"></div>
 
+                  <!-- Load the Twitch embed script -->
+                  <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+                  <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
+                  <script type="text/javascript">
+                    new Twitch.Embed("twitch-embed", {
+                      width: 350,
+                      height: 480,
+                      channel: "thecromas"
+                    });
+                  </script>
+        </div>
+
+        <br>
 
         <h1> Primeira Mensagem </h1>
           <br>
@@ -33,26 +46,12 @@
           <br>
 
 
-          <div id="direitinha">
 
 
-                    <div id="twitch-embed"></div>
 
-                        <!-- Load the Twitch embed script -->
-                        <script src="https://embed.twitch.tv/embed/v1.js"></script>
 
-                        <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
-                        <script type="text/javascript">
-                          new Twitch.Embed("twitch-embed", {
-                            width: 350,
-                            height: 480,
-                            channel: "thecromas"
-                          });
-                        </script>
 
-          </div>
-
-          <footer>
+          <footer id="footer">
 
           </footer>
 
