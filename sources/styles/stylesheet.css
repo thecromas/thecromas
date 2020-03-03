@@ -9,7 +9,7 @@ body {
 #header {
   height: 50px;
   width: 100%;
-  background-color: darkgray;
+  background-image: url(/images/fade.png);
   position: fixed;
 }
 .left {
@@ -49,5 +49,5 @@ body {
 .caixabranca{
   background-color:white;
   opacity:75%;
-  
+
 }
