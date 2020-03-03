@@ -24,8 +24,8 @@ html, body {
 }
 
 #footer {
-  color: green;
-  height: 100px;
-  width: 100px;
-  clear: left;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
 }
