@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background-image: url(/Images/bg.png);
+  background-image: url(/images/bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -39,7 +39,7 @@ body {
 }
 
 .content-body{
-  background-image: url(/Images/bg.png);
+  background-image: url(/images/bg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
