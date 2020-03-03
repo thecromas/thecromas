@@ -21,7 +21,7 @@ body {
 .right {
   height: 100%;
   width: 350px;
-  background-color: lightgray;
+  background-image: url(/images/fade2.png);
   right: 0;
   position: fixed;
   top: 50px;
