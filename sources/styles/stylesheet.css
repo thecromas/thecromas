@@ -11,6 +11,7 @@ html, body {
   background-color: white;
   width:750px;
   top: 50px;
+  position:sticky;
 }
 .right {
   height: 100%;
