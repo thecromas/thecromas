@@ -45,3 +45,9 @@ body {
   background-position: center;
   background-attachment: fixed;
 }
+
+.caixabranca{
+  background-color:white;
+  opacity:75%;
+  
+}
